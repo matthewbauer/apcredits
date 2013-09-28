@@ -1,0 +1,56 @@
+
+Art History;3;3;Art Hi 101
+Art History;5;6;Art Hi 201,202
+Biology;3;4;Biol 123,124L
+Biology;4;4;Biol 201,201L
+Biology;5;8;Biol 201,201L and 4 electives
+Calculus AB;3;4;Math 162
+Calculus BC;3;8;Math 162,163
+Chemistry;3;8;Chem 121L,122L
+Chemistry;4;9;Chem 131L,132L
+Comparative Government and Politics;3;3;Pol Sci 220
+Computer Science A;5;3;CS 151L
+Computer Science AB;4;3;CS 251L
+Computer Science AB;5;3;CS 151L
+English Language and Composition;3;3;Engl 101
+English Language and Composition;5;6;Engl 101 & 102
+English Literature and Composition;3;3;Engl 101
+English Literature and Composition;5;6;Engl 101 and 102
+Environmental Science;3;4;EnvSc 101,102L
+European History;4;3;Hist 102L
+French Language and Culture;3;6;Fren 101,102
+French Language and Culture;4;9;Fren 101,102,201
+French Language and Culture;5;12;Fren 101,102,201,202
+French Literature;3;6;Fren 201,202
+French Literature;4;9;Fren 201,202,301
+French Literature;5;12;Fren 201,202,301,302
+German Language and Culture;3;6;Germ 101,102
+German Language and Culture;4;9;Germ 101,102,201
+German Language and Culture;5;12;Germ 101,102,201,202
+Human Geography;3;3;Geog 102
+Latin;3;6;Latin 101,102
+Latin;4;9;Latin 101,102,201
+Latin;5;12;Latin 101,102,201,202
+Latin Literature;3;6;Latin 101,102
+Latin Literature;4;9;Latin 101,102,201
+Latin Literature;5;12;Latin 101,102,201,202
+Macroeconomics;4;3;Econ 105
+Microeconomics;4;3;Econ 106
+Physics B;3;--;-
+Physics B;4;8;Physics 151L,152L
+Physics C: Electricity and Magnetism;3;--;-
+Physics C: Electricity and Magnetism;4;4;Physics 161L
+Physics C: Mechanics;3;--;-
+Physics C: Mechanics;4;4;Physics 160L
+Psychology;3;3;Psych 105
+Spanish Language;3;6;Span 101,102
+Spanish Language;4;12;Span 101,102,201,202
+Spanish Literature and Culture;4;3;Span 302
+Spanish Literature and Culture;5;6;Span 301,302
+Statistics;4;3;Stat 145
+Studio Art: 2-D Design Portfolio;3;--;-
+Studio Art: 3-D Design Portfolio;3;--;-
+Studio Art: Drawing Portfolio;3;--;-
+United States Government and Politics;3;3;Pol Sci 200
+United States History;4;6;Hist 161L,162L
+World History;4;6;Hist 101L,102L

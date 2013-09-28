@@ -1,0 +1,27 @@
+<h2 style="font-size: 22px;">Saint Peter's University</h2>
+<strong>Jersey City, NJ</strong>
+
+<div class="infolines">
+    <div class="row-fluid">
+        <div class="span10">Offers credit for AP Exams</div>
+        <div class="span2 alignRight">
+                <div class="short-status-green">Yes</div>
+        </div>
+    </div>    
+    <div class="row-fluid">
+        <div class="span10">Offers placement into higher-level courses for AP Exams</div>
+        <div class="span2 alignRight">
+                <div class="short-status-green">Yes</div>
+        </div>
+    </div>    
+</div>
+
+
+<p>
+    <strong>From the college:</strong>
+    <i>Grants advanced placement and credit to students who obtain a score of 3 or better in advanced placement examinations administered by the College Entrance Examination Board.  Test results in Biology, Chemistry and Computer Science will be evaluated for possible credit by the appropriate department Chair persons.</i>
+    <br/>
+    For more information, <a href="http://www.saintpeters.edu/academics/catalogs/" target="_blank" title="Opens a new window">view the credit policy on this college's website</a>.
+</p>
+
+<!-- END SHARED FTL  -->

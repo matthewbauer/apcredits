@@ -1,0 +1,27 @@
+<h2 style="font-size: 22px;">Long Beach City College</h2>
+<strong>Long Beach, CA</strong>
+
+<div class="infolines">
+    <div class="row-fluid">
+        <div class="span10">Offers credit for AP Exams</div>
+        <div class="span2 alignRight">
+                <div class="short-status-red">No</div>
+        </div>
+    </div>    
+    <div class="row-fluid">
+        <div class="span10">Offers placement into higher-level courses for AP Exams</div>
+        <div class="span2 alignRight">
+                <div class="short-status-red">No</div>
+        </div>
+    </div>    
+</div>
+
+
+<p>
+    <strong>From the college:</strong>
+    <i>The College offers credit for grades of 3 or better on a variety of College Board Advanced Placement Exams. Students should file a General Petition in the Admissions Office, R-102 and have an official copy of their test results sent to the school.</i>
+    <br/>
+    For more information, <a href="http://www.lbcc.edu/catalog/" target="_blank" title="Opens a new window">view the credit policy on this college's website</a>.
+</p>
+
+<!-- END SHARED FTL  -->

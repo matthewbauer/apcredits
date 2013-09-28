@@ -1,0 +1,27 @@
+<h2 style="font-size: 22px;">Johnson C. Smith University</h2>
+<strong>Charlotte, NC</strong>
+
+<div class="infolines">
+    <div class="row-fluid">
+        <div class="span10">Offers credit for AP Exams</div>
+        <div class="span2 alignRight">
+                <div class="short-status-green">Yes</div>
+        </div>
+    </div>    
+    <div class="row-fluid">
+        <div class="span10">Offers placement into higher-level courses for AP Exams</div>
+        <div class="span2 alignRight">
+	     --
+        </div>
+    </div>    
+</div>
+
+
+<p>
+    <strong>From the college:</strong>
+    <i>Students satisfactorily completing Advanced Placement Examinations in disciplines offered by the University will be allowed for college credit. AP examination scores of 3 or above will be accepted for college credit. Students may receive additional credit hours if scores received are 4 or above, after consultation with appropriate Department Head and College Dean.  Students are responsible for having their AP score(s) submitted directly to the University by the College Board.</i>
+    <br/>
+    For more information, <a href="http://www.jcsu.edu/admissions/future_students/application_information/admission_requirements" target="_blank" title="Opens a new window">view the credit policy on this college's website</a>.
+</p>
+
+<!-- END SHARED FTL  -->

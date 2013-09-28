@@ -1,0 +1,281 @@
+<h2 style="font-size: 22px;">Westminster College</h2>
+<strong>Salt Lake City, UT</strong>
+
+<div class="infolines">
+    <div class="row-fluid">
+        <div class="span10">Offers credit for AP Exams</div>
+        <div class="span2 alignRight">
+                <div class="short-status-green">Yes</div>
+        </div>
+    </div>    
+    <div class="row-fluid">
+        <div class="span10">Offers placement into higher-level courses for AP Exams</div>
+        <div class="span2 alignRight">
+                <div class="short-status-green">Yes</div>
+        </div>
+    </div>    
+</div>
+
+
+<p>
+    For more information, <a href="http://www.westminstercollege.edu/registrar/index.cfm?parent=278&amp;detail=311&amp;content=1691" target="_blank" title="Opens a new window">view the credit policy on this college's website</a>.
+</p>
+
+ <p class="box-padding-3">
+    Additional restrictions and requirements may apply to the policy listed below. For more detailed information, visit the college's AP policy on the Web or contact the college directly.
+ </p>
+
+ <table id="creditPolicyTable" class="table table-striped table-condensed datatable top-bold-border bottom-border" summary="This table of Credit Policy gives credit information (column headings) for list of exams (row headings).">
+    <caption class="visuallyhidden">Westminster College Credit Policy</caption>
+    <thead>
+        <tr>
+            <th scope="col" class="">Exam<br/>Title</th>
+            <th scope="col">Min. Score<br/>Required</th>
+            <th scope="col">Number<br/>of Credits</th>
+            <th scope="col">Equivalent<br/>Course</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td scope="row">Art History</td>
+            <td>3</td>
+            <td>8</td>
+            <td>ART 110,100T</td>
+        </tr>
+        <tr>
+            <td scope="row">Biology</td>
+            <td>4</td>
+            <td>8</td>
+            <td>LETRN SM3,BIOL 100T</td>
+        </tr>
+        <tr>
+            <td scope="row">Calculus AB</td>
+            <td>3</td>
+            <td>8</td>
+            <td>MATH 141,100T</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>4</td>
+            <td>8</td>
+            <td>MATH 141,201</td>
+        </tr>
+        <tr>
+            <td scope="row">Calculus BC</td>
+            <td>3</td>
+            <td>8</td>
+            <td>MATH 141,201</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>4</td>
+            <td>8</td>
+            <td>MATH 201,202</td>
+        </tr>
+        <tr>
+            <td scope="row">Chemistry</td>
+            <td>3</td>
+            <td>6</td>
+            <td>CHEM 100T</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>5</td>
+            <td>6</td>
+            <td>CHEM 111, CHEM*100T</td>
+        </tr>
+        <tr>
+            <td scope="row">Chinese Language and Culture</td>
+            <td>3</td>
+            <td>8</td>
+            <td>CHIN 110, CHIN 100T</td>
+        </tr>
+        <tr>
+            <td scope="row">Comparative Government and Politics</td>
+            <td>3</td>
+            <td>4</td>
+            <td>PLSC 101</td>
+        </tr>
+        <tr>
+            <td scope="row">Computer Science A</td>
+            <td>3</td>
+            <td>4</td>
+            <td>CMPT 201</td>
+        </tr>
+        <tr>
+            <td scope="row">Computer Science AB</td>
+            <td>3</td>
+            <td>8</td>
+            <td>CMPT 201,202</td>
+        </tr>
+        <tr>
+            <td scope="row">English Language and Composition</td>
+            <td>4</td>
+            <td>6</td>
+            <td>ENGL 110,ELEC 100T</td>
+        </tr>
+        <tr>
+            <td scope="row">English Literature and Composition</td>
+            <td>4</td>
+            <td>8</td>
+            <td>ENGL 110,220</td>
+        </tr>
+        <tr>
+            <td scope="row">Environmental Science</td>
+            <td>3</td>
+            <td>4</td>
+            <td>BIOL 110</td>
+        </tr>
+        <tr>
+            <td scope="row">European History</td>
+            <td>3</td>
+            <td>6</td>
+            <td>LETRN HUM1,HIST 100T</td>
+        </tr>
+        <tr>
+            <td scope="row">French Language and Culture</td>
+            <td>3</td>
+            <td>6</td>
+            <td>FREN 110,100T</td>
+        </tr>
+        <tr>
+            <td scope="row">French Literature</td>
+            <td>3</td>
+            <td>6</td>
+            <td>FREN 100T</td>
+        </tr>
+        <tr>
+            <td scope="row">German Language and Culture</td>
+            <td>3</td>
+            <td>6</td>
+            <td>LANG 100T</td>
+        </tr>
+        <tr>
+            <td scope="row">Human Geography</td>
+            <td>3</td>
+            <td>3</td>
+            <td>ELEC 100T</td>
+        </tr>
+        <tr>
+            <td scope="row">Italian Language and Culture</td>
+            <td>3</td>
+            <td>6</td>
+            <td>LANG 100T</td>
+        </tr>
+        <tr>
+            <td scope="row">Japanese Language and Culture</td>
+            <td>3</td>
+            <td>6</td>
+            <td>JAPN 110, LANG 100T</td>
+        </tr>
+        <tr>
+            <td scope="row">Latin</td>
+            <td>3</td>
+            <td>6</td>
+            <td>LATN 110, LATN 100T</td>
+        </tr>
+        <tr>
+            <td scope="row">Latin Literature</td>
+            <td>3</td>
+            <td>6</td>
+            <td>LATN 110, LANG 100T</td>
+        </tr>
+        <tr>
+            <td scope="row">Macroeconomics</td>
+            <td>4</td>
+            <td>4</td>
+            <td>ECON 253</td>
+        </tr>
+        <tr>
+            <td scope="row">Microeconomics</td>
+            <td>4</td>
+            <td>4</td>
+            <td>ECON 263</td>
+        </tr>
+        <tr>
+            <td scope="row">Music Theory</td>
+            <td>4</td>
+            <td>3</td>
+            <td>MUSC 151</td>
+        </tr>
+        <tr>
+            <td scope="row">Physics B</td>
+            <td>3</td>
+            <td>6</td>
+            <td>PHYS 100T</td>
+        </tr>
+        <tr>
+            <td scope="row">Physics C: Electricity and Magnetism</td>
+            <td>3</td>
+            <td>3</td>
+            <td>PHYS 100T</td>
+        </tr>
+        <tr>
+            <td scope="row">Physics C: Mechanics</td>
+            <td>3</td>
+            <td>3</td>
+            <td>PHYS 100T</td>
+        </tr>
+        <tr>
+            <td scope="row">Psychology</td>
+            <td>3</td>
+            <td>4</td>
+            <td>PSYC 105</td>
+        </tr>
+        <tr>
+            <td scope="row">Spanish Language</td>
+            <td>3</td>
+            <td>8</td>
+            <td>SPAN 110,100T</td>
+        </tr>
+        <tr>
+            <td scope="row">Spanish Literature and Culture</td>
+            <td>3</td>
+            <td>6</td>
+            <td>SPAN 100T</td>
+        </tr>
+        <tr>
+            <td scope="row">Statistics</td>
+            <td>3</td>
+            <td>4</td>
+            <td>MATH 150</td>
+        </tr>
+        <tr>
+            <td scope="row">Studio Art: 2-D Design Portfolio</td>
+            <td>3</td>
+            <td>6</td>
+            <td> ART 100T</td>
+        </tr>
+        <tr>
+            <td scope="row">Studio Art: 3-D Design Portfolio</td>
+            <td>3</td>
+            <td>6</td>
+            <td> ART 100T</td>
+        </tr>
+        <tr>
+            <td scope="row">Studio Art: Drawing Portfolio</td>
+            <td>3</td>
+            <td>3</td>
+            <td>ART 100T </td>
+        </tr>
+        <tr>
+            <td scope="row">United States Government and Politics</td>
+            <td>3</td>
+            <td>4</td>
+            <td>PLSC 121</td>
+        </tr>
+        <tr>
+            <td scope="row">United States History</td>
+            <td>3</td>
+            <td>6</td>
+            <td>HIST 220,100T</td>
+        </tr>
+        <tr>
+            <td scope="row">World History</td>
+            <td>3</td>
+            <td>6</td>
+            <td>LETRN HUM1, HIST 100T</td>
+        </tr>
+    </tbody>
+ </table>     
+<!-- END SHARED FTL  -->

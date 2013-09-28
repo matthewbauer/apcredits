@@ -1,0 +1,44 @@
+
+Art History;3;2;VSAR 1107
+Art History;4;4;VSAR2551
+Art History;5;8;VSAR2551 & 2552
+Biology;3;4;Biol 1110
+Biology;4;4;BIOL 1211 (or 1110 &1120)
+Biology;5;8;BIOL 1211 & 1212 (or 1110 & 1120)
+Calculus AB;3;5;MATH 2471
+Calculus BC;3;10;MATH 2471 & 2472
+Chemistry;3;4;CHEM 1111
+Chemistry;4;8;CHEM 1111 or 1112
+Comparative Government and Politics;3;3;POL 1400
+Computer Science A;3;4;CS 2321
+Computer Science A;3;4;CS 2321
+Computer Science AB;4;8;CS 2321 & 2322
+English Language and Composition;3;3;ENGL 1101
+English Language and Composition;4;6;ENGL 1101 & 1102
+English Literature and Composition;3;3;ENGL 1101
+English Literature and Composition;4;6;ENGL 1101 & 1102
+Environmental Science;3;3;ENVR 2000
+European History;3;3;HST 1304
+European History;5;6;HST 1304 & 1305
+German Language and Culture;3;4;GER 1111
+German Language and Culture;5;8;GER 1111 & 1112
+Human Geography;3;3;GEOG 2200
+Latin;3;3;UNIV 1910
+Latin Literature;3;3;UNIV 1910
+Macroeconomics;3;3;ECON 2100
+Microeconomics;3;3;ECON 2000
+Music Theory;3;3;MUS 2201
+Music Theory;5;6;MUS 2201 & 2202
+Physics B;3;4;PHYS 1101
+Physics C: Electricity and Magnetism;3;5;PHYS 2101
+Physics C: Mechanics;3;5;PHYS 2101
+Psychology;3;4;PSY 1100
+Spanish Language;3;4;SPAN 1111
+Spanish Language;5;8;SPAN 1111 & 1112
+Spanish Literature and Culture;3;3;UNIV 1910
+Statistics;3;4;MATH 2610
+United States Government and Politics;3;3;POL 1200
+United States History;3;3;HST 1114
+United States History;5;6;HST 1114 & 1115
+World History;3;3;HST 1304
+World History;5;6;HST 1304 & 1305

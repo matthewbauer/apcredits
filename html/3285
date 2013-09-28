@@ -1,0 +1,27 @@
+<h2 style="font-size: 22px;">Curry College</h2>
+<strong>Milton, MA</strong>
+
+<div class="infolines">
+    <div class="row-fluid">
+        <div class="span10">Offers credit for AP Exams</div>
+        <div class="span2 alignRight">
+                <div class="short-status-green">Yes</div>
+        </div>
+    </div>    
+    <div class="row-fluid">
+        <div class="span10">Offers placement into higher-level courses for AP Exams</div>
+        <div class="span2 alignRight">
+                <div class="short-status-red">No</div>
+        </div>
+    </div>    
+</div>
+
+
+<p>
+    <strong>From the college:</strong>
+    <i>Curry College normally grants academic credit toward graduation to those who have sucessfully participated in the Advanced Placement Program of the College Entrance Examination Board and have earned a rating of 3, 4, or 5 on the AP Exam. Applicants desiring credit should request the College Entrance Examination Board to send the examination results to the Admission Office. The exam may also be used to satisfy course prerequisites or the Central Liberal Arts Curriculum.</i>
+    <br/>
+    For more information, <a href="http://www.curry.edu/programs-and-courses/undergraduate-programs.html" target="_blank" title="Opens a new window">view the credit policy on this college's website</a>.
+</p>
+
+<!-- END SHARED FTL  -->

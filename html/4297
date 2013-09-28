@@ -1,0 +1,27 @@
+<h2 style="font-size: 22px;">Eastern Arizona College</h2>
+<strong>Thatcher, AZ</strong>
+
+<div class="infolines">
+    <div class="row-fluid">
+        <div class="span10">Offers credit for AP Exams</div>
+        <div class="span2 alignRight">
+	     --
+        </div>
+    </div>    
+    <div class="row-fluid">
+        <div class="span10">Offers placement into higher-level courses for AP Exams</div>
+        <div class="span2 alignRight">
+	     --
+        </div>
+    </div>    
+</div>
+
+
+<p>
+    <strong>From the college:</strong>
+    <i>Eastern Arizona College (EAC) awards college credit based on AP scores from specific Advanced Placement examinations. EAC has open admissions -- there is no AP requirement or consideration related to admissions for having taken part in AP programs or examinations.Testing and evaluation for Advanced Placement will be uniform throughout the District and shall be applied uniformly by divisions and individual instructors.</i>
+    <br/>
+    For more information, <a href="http://www.eac.edu/Academics/Catalogs/Current/aca_reg.shtm#Credit" target="_blank" title="Opens a new window">view the credit policy on this college's website</a>.
+</p>
+
+<!-- END SHARED FTL  -->

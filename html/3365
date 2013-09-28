@@ -1,0 +1,27 @@
+<h2 style="font-size: 22px;">Eastern Nazarene College</h2>
+<strong>Quincy, MA</strong>
+
+<div class="infolines">
+    <div class="row-fluid">
+        <div class="span10">Offers credit for AP Exams</div>
+        <div class="span2 alignRight">
+                <div class="short-status-red">No</div>
+        </div>
+    </div>    
+    <div class="row-fluid">
+        <div class="span10">Offers placement into higher-level courses for AP Exams</div>
+        <div class="span2 alignRight">
+                <div class="short-status-red">No</div>
+        </div>
+    </div>    
+</div>
+
+
+<p>
+    <strong>From the college:</strong>
+    <i>Advanced Placement may be achieved through participation in the College Entrance Examinations Board's Advanced Placement (AP) Program. Students must have official scores sent to the Office of the Registrar at Eastern Nazarene College for evaluation. A score of 3 will result in a waiver and a score of 4 or 5 will result in a waiver with credit for the equivalent course.</i>
+    <br/>
+    For more information, <a href="http://www1.enc.edu/registrar/catalog/" target="_blank" title="Opens a new window">view the credit policy on this college's website</a>.
+</p>
+
+<!-- END SHARED FTL  -->

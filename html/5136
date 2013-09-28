@@ -1,0 +1,27 @@
+<h2 style="font-size: 22px;">Cabarrus College of Health Sciences</h2>
+<strong>Concord, NC</strong>
+
+<div class="infolines">
+    <div class="row-fluid">
+        <div class="span10">Offers credit for AP Exams</div>
+        <div class="span2 alignRight">
+                <div class="short-status-green">Yes</div>
+        </div>
+    </div>    
+    <div class="row-fluid">
+        <div class="span10">Offers placement into higher-level courses for AP Exams</div>
+        <div class="span2 alignRight">
+                <div class="short-status-green">Yes</div>
+        </div>
+    </div>    
+</div>
+
+
+<p>
+    <strong>From the college:</strong>
+    <i>A student may earn credit for the general education courses by attaining acceptable scores (4 or 5) on the Advanced Placement Program (AP exam) of the College Entrance Examination Board (CEEB); a credit granting score of 50 or better on College Level Examination Program (CLEP) subject exam of the College Board; or a &quot;C&quot; or better on a Regent's exam. Credit by examination appears on the student's ranscript but is not included in the calculation of GPA.</i>
+    <br/>
+    For more information, <a href="http://www.cabarruscollege.edu/admissions/cred_exam.html" target="_blank" title="Opens a new window">view the credit policy on this college's website</a>.
+</p>
+
+<!-- END SHARED FTL  -->

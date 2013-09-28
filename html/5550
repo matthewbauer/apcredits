@@ -1,0 +1,27 @@
+<h2 style="font-size: 22px;">Piedmont Technical College</h2>
+<strong>Greenwood, SC</strong>
+
+<div class="infolines">
+    <div class="row-fluid">
+        <div class="span10">Offers credit for AP Exams</div>
+        <div class="span2 alignRight">
+	     --
+        </div>
+    </div>    
+    <div class="row-fluid">
+        <div class="span10">Offers placement into higher-level courses for AP Exams</div>
+        <div class="span2 alignRight">
+	     --
+        </div>
+    </div>    
+</div>
+
+
+<p>
+    <strong>From the college:</strong>
+    <i>Piedmont Technical College encourages any type of advanced standing (military, AP Exams, life experience, or HS articulation). We endorse the fact that learning may occur in a variety of settings and strive to award the equivalent course credit.</i>
+    <br/>
+    For more information, <a href="http://www.ptc.edu/college-resources/student-records-office/exemption-credit" target="_blank" title="Opens a new window">view the credit policy on this college's website</a>.
+</p>
+
+<!-- END SHARED FTL  -->

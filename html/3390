@@ -1,0 +1,158 @@
+<h2 style="font-size: 22px;">Fairfield University</h2>
+<strong>Fairfield, CT</strong>
+
+<div class="infolines">
+    <div class="row-fluid">
+        <div class="span10">Offers credit for AP Exams</div>
+        <div class="span2 alignRight">
+                <div class="short-status-green">Yes</div>
+        </div>
+    </div>    
+    <div class="row-fluid">
+        <div class="span10">Offers placement into higher-level courses for AP Exams</div>
+        <div class="span2 alignRight">
+                <div class="short-status-green">Yes</div>
+        </div>
+    </div>    
+</div>
+
+
+<p>
+    <strong>From the college:</strong>
+    <i>Fairfield University will award three or four hours credit toward graduation for each AP course taken by a student provided that the student has taken an Advanced Placement Exam prepared by the College Board program and obtained an exam score of 4 or 5. It is the discretion of college/school officials to determine if such AP credits can be used to exempt students from specific University courses or requirements. Normally, AP credit will not exempt a student from requirements in his/her major. No student will be awarded more than a total of 15 AP credits by Fairfield University.</i>
+    <br/>
+    For more information, <a href="http://www.fairfield.edu/student/new_awarding.html" target="_blank" title="Opens a new window">view the credit policy on this college's website</a>.
+</p>
+
+ <p class="box-padding-3">
+    Additional restrictions and requirements may apply to the policy listed below. For more detailed information, visit the college's AP policy on the Web or contact the college directly.
+ </p>
+
+ <table id="creditPolicyTable" class="table table-striped table-condensed datatable top-bold-border bottom-border" summary="This table of Credit Policy gives credit information (column headings) for list of exams (row headings).">
+    <caption class="visuallyhidden">Fairfield University Credit Policy</caption>
+    <thead>
+        <tr>
+            <th scope="col" class="">Exam<br/>Title</th>
+            <th scope="col">Min. Score<br/>Required</th>
+            <th scope="col">Number<br/>of Credits</th>
+            <th scope="col">Equivalent<br/>Course</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td scope="row">Biology</td>
+            <td>4</td>
+            <td>4</td>
+            <td>BI 170</td>
+        </tr>
+        <tr>
+            <td scope="row">Calculus AB</td>
+            <td>4</td>
+            <td>6</td>
+            <td>MA 121,122</td>
+        </tr>
+        <tr>
+            <td scope="row">Calculus BC</td>
+            <td>4</td>
+            <td>8</td>
+            <td>MA 171,172</td>
+        </tr>
+        <tr>
+            <td scope="row">Chemistry</td>
+            <td>4</td>
+            <td>4</td>
+            <td>CH 11</td>
+        </tr>
+        <tr>
+            <td scope="row">Computer Science A</td>
+            <td>4</td>
+            <td>3</td>
+            <td>CS 131</td>
+        </tr>
+        <tr>
+            <td scope="row">Computer Science AB</td>
+            <td>4</td>
+            <td>6</td>
+            <td>CS 131,132</td>
+        </tr>
+        <tr>
+            <td scope="row">English Language and Composition</td>
+            <td>4</td>
+            <td>3</td>
+            <td>EN 11</td>
+        </tr>
+        <tr>
+            <td scope="row">English Literature and Composition</td>
+            <td>4</td>
+            <td>3</td>
+            <td>EN 11</td>
+        </tr>
+        <tr>
+            <td scope="row">European History</td>
+            <td>4</td>
+            <td>3</td>
+            <td>HI 30</td>
+        </tr>
+        <tr>
+            <td scope="row">French Language and Culture</td>
+            <td>4</td>
+            <td>4</td>
+            <td>FR 210</td>
+        </tr>
+        <tr>
+            <td scope="row">German Language and Culture</td>
+            <td>4</td>
+            <td>4</td>
+            <td>GM 210</td>
+        </tr>
+        <tr>
+            <td scope="row">Italian Language and Culture</td>
+            <td>4</td>
+            <td>4</td>
+            <td>T 210</td>
+        </tr>
+        <tr>
+            <td scope="row">Physics B</td>
+            <td>4</td>
+            <td>4</td>
+            <td>PS 15</td>
+        </tr>
+        <tr>
+            <td scope="row">Physics C: Electricity and Magnetism</td>
+            <td>4</td>
+            <td>4</td>
+            <td>PS 15</td>
+        </tr>
+        <tr>
+            <td scope="row">Physics C: Mechanics</td>
+            <td>4</td>
+            <td>4</td>
+            <td>PS 15</td>
+        </tr>
+        <tr>
+            <td scope="row">Spanish Language</td>
+            <td>4</td>
+            <td>4</td>
+            <td>SP 210</td>
+        </tr>
+        <tr>
+            <td scope="row">Statistics</td>
+            <td>4</td>
+            <td>3</td>
+            <td>MA 17</td>
+        </tr>
+        <tr>
+            <td scope="row">United States Government and Politics</td>
+            <td>4</td>
+            <td>3</td>
+            <td>PO 11</td>
+        </tr>
+        <tr>
+            <td scope="row">United States History</td>
+            <td>4</td>
+            <td>3</td>
+            <td>HI Elective</td>
+        </tr>
+    </tbody>
+ </table>     
+<!-- END SHARED FTL  -->

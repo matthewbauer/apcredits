@@ -1,0 +1,26 @@
+<h2 style="font-size: 22px;">Lincoln Land Community College</h2>
+<strong>Springfield, IL</strong>
+
+<div class="infolines">
+    <div class="row-fluid">
+        <div class="span10">Offers credit for AP Exams</div>
+        <div class="span2 alignRight">
+	     --
+        </div>
+    </div>    
+    <div class="row-fluid">
+        <div class="span10">Offers placement into higher-level courses for AP Exams</div>
+        <div class="span2 alignRight">
+	     --
+        </div>
+    </div>    
+</div>
+
+
+<p>
+    <strong>From the college:</strong>
+    <i>We welcome AP credit with proper documentation verifying that the student score meets the LLCC qualifying score.</i>
+    <br/>
+</p>
+
+<!-- END SHARED FTL  -->

@@ -1,0 +1,266 @@
+<h2 style="font-size: 22px;">Cairn University</h2>
+<strong>Langhorne, PA</strong>
+
+<div class="infolines">
+    <div class="row-fluid">
+        <div class="span10">Offers credit for AP Exams</div>
+        <div class="span2 alignRight">
+                <div class="short-status-green">Yes</div>
+        </div>
+    </div>    
+    <div class="row-fluid">
+        <div class="span10">Offers placement into higher-level courses for AP Exams</div>
+        <div class="span2 alignRight">
+                <div class="short-status-green">Yes</div>
+        </div>
+    </div>    
+</div>
+
+
+<p>
+    <strong>From the college:</strong>
+    <i>AP scores of 3 or higher are needed to qualify for transfer credit. In determining the amount of college credit to be given, the University will follow the recommendations of the American Council on Education (ACE) for AP exams: 3 or 4 credits for a half-year course and 6 or 8 credits for a full-year course (provided the University offers 6 or 8 credits in the area of the full-year AP course).</i>
+    <br/>
+    For more information, <a href="http://catalog.cairn.edu/content.php?catoid=21&amp;navoid=652" target="_blank" title="Opens a new window">view the credit policy on this college's website</a>.
+</p>
+
+ <p class="box-padding-3">
+    Additional restrictions and requirements may apply to the policy listed below. For more detailed information, visit the college's AP policy on the Web or contact the college directly.
+ </p>
+
+ <table id="creditPolicyTable" class="table table-striped table-condensed datatable top-bold-border bottom-border" summary="This table of Credit Policy gives credit information (column headings) for list of exams (row headings).">
+    <caption class="visuallyhidden">Cairn University Credit Policy</caption>
+    <thead>
+        <tr>
+            <th scope="col" class="">Exam<br/>Title</th>
+            <th scope="col">Min. Score<br/>Required</th>
+            <th scope="col">Number<br/>of Credits</th>
+            <th scope="col">Equivalent<br/>Course</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td scope="row">Art History</td>
+            <td>3</td>
+            <td>3</td>
+            <td>Humanities Elective</td>
+        </tr>
+        <tr>
+            <td scope="row">Biology</td>
+            <td>3</td>
+            <td>3</td>
+            <td>SCI 341</td>
+        </tr>
+        <tr>
+            <td scope="row">Calculus AB</td>
+            <td>3</td>
+            <td>3</td>
+            <td>MAT 101 or MAT 241</td>
+        </tr>
+        <tr>
+            <td scope="row">Calculus BC</td>
+            <td>3</td>
+            <td>3</td>
+            <td>MAT 101 or MAT 241 and MAT 342</td>
+        </tr>
+        <tr>
+            <td scope="row">Chemistry</td>
+            <td>3</td>
+            <td>3</td>
+            <td>SCI 337</td>
+        </tr>
+        <tr>
+            <td scope="row">Chinese Language and Culture</td>
+            <td>3</td>
+            <td>3</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td scope="row">Comparative Government and Politics</td>
+            <td>3</td>
+            <td>3</td>
+            <td>Social Science Elective</td>
+        </tr>
+        <tr>
+            <td scope="row">Computer Science A</td>
+            <td>3</td>
+            <td>3</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td scope="row">Computer Science AB</td>
+            <td>3</td>
+            <td>6</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td scope="row">English Language and Composition</td>
+            <td>3</td>
+            <td>3</td>
+            <td>ENG 101</td>
+        </tr>
+        <tr>
+            <td scope="row">English Literature and Composition</td>
+            <td>3</td>
+            <td>3</td>
+            <td>ENG 101 or Humanities Elective</td>
+        </tr>
+        <tr>
+            <td scope="row">Environmental Science</td>
+            <td>3</td>
+            <td>3</td>
+            <td>SCI 335</td>
+        </tr>
+        <tr>
+            <td scope="row">European History</td>
+            <td>3</td>
+            <td>3</td>
+            <td>HIS 212</td>
+        </tr>
+        <tr>
+            <td scope="row">French Language and Culture</td>
+            <td>3</td>
+            <td>3</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td scope="row">French Literature</td>
+            <td>3</td>
+            <td>3</td>
+            <td>Humanities Elective</td>
+        </tr>
+        <tr>
+            <td scope="row">German Language and Culture</td>
+            <td>3</td>
+            <td>3</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td scope="row">Human Geography</td>
+            <td>3</td>
+            <td>3</td>
+            <td>Social Science Elective</td>
+        </tr>
+        <tr>
+            <td scope="row">Italian Language and Culture</td>
+            <td>3</td>
+            <td>3</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td scope="row">Japanese Language and Culture</td>
+            <td>3</td>
+            <td>3</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td scope="row">Latin</td>
+            <td>3</td>
+            <td>3</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td scope="row">Latin Literature</td>
+            <td>3</td>
+            <td>3</td>
+            <td>Humanities Elective</td>
+        </tr>
+        <tr>
+            <td scope="row">Macroeconomics</td>
+            <td>3</td>
+            <td>3</td>
+            <td>SOC 332</td>
+        </tr>
+        <tr>
+            <td scope="row">Microeconomics</td>
+            <td>3</td>
+            <td>3</td>
+            <td>Business Elective</td>
+        </tr>
+        <tr>
+            <td scope="row">Music Theory</td>
+            <td>3</td>
+            <td>3</td>
+            <td>MUS 111</td>
+        </tr>
+        <tr>
+            <td scope="row">Physics B</td>
+            <td>3</td>
+            <td>3</td>
+            <td>Natural Science Elective</td>
+        </tr>
+        <tr>
+            <td scope="row">Physics C: Electricity and Magnetism</td>
+            <td>3</td>
+            <td>--</td>
+            <td>Natural Science Elective</td>
+        </tr>
+        <tr>
+            <td scope="row">Physics C: Mechanics</td>
+            <td>3</td>
+            <td>3</td>
+            <td>Natural Science Elective</td>
+        </tr>
+        <tr>
+            <td scope="row">Psychology</td>
+            <td>3</td>
+            <td>3</td>
+            <td>PSY 101</td>
+        </tr>
+        <tr>
+            <td scope="row">Spanish Language</td>
+            <td>3</td>
+            <td>3</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td scope="row">Spanish Literature and Culture</td>
+            <td>--</td>
+            <td>3</td>
+            <td>Humanities Elective</td>
+        </tr>
+        <tr>
+            <td scope="row">Statistics</td>
+            <td>--</td>
+            <td>3</td>
+            <td>MAT 101 or Math Elective</td>
+        </tr>
+        <tr>
+            <td scope="row">Studio Art: 2-D Design Portfolio</td>
+            <td>3</td>
+            <td>3</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td scope="row">Studio Art: 3-D Design Portfolio</td>
+            <td>3</td>
+            <td>3</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td scope="row">Studio Art: Drawing Portfolio</td>
+            <td>3</td>
+            <td>3</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td scope="row">United States Government and Politics</td>
+            <td>3</td>
+            <td>3</td>
+            <td>SOC 333</td>
+        </tr>
+        <tr>
+            <td scope="row">United States History</td>
+            <td>3</td>
+            <td>3</td>
+            <td>US History Elective</td>
+        </tr>
+        <tr>
+            <td scope="row">World History</td>
+            <td>3</td>
+            <td>3</td>
+            <td>HIS 211</td>
+        </tr>
+    </tbody>
+ </table>     
+<!-- END SHARED FTL  -->

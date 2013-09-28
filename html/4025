@@ -1,0 +1,26 @@
+<h2 style="font-size: 22px;">Blue Mountain Community College</h2>
+<strong>Pendleton, OR</strong>
+
+<div class="infolines">
+    <div class="row-fluid">
+        <div class="span10">Offers credit for AP Exams</div>
+        <div class="span2 alignRight">
+                <div class="short-status-green">Yes</div>
+        </div>
+    </div>    
+    <div class="row-fluid">
+        <div class="span10">Offers placement into higher-level courses for AP Exams</div>
+        <div class="span2 alignRight">
+                <div class="short-status-green">Yes</div>
+        </div>
+    </div>    
+</div>
+
+
+<p>
+    <strong>From the college:</strong>
+    <i>May be awarded credit based on score received on exams. Exam scores must be received within 2 years of exam date, student must be enrolled in 1 or more credit at BMCC, maximum number of credits for all non-traditional credits per degree is 22.</i>
+    <br/>
+</p>
+
+<!-- END SHARED FTL  -->

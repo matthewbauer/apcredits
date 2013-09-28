@@ -1,0 +1,218 @@
+<h2 style="font-size: 22px;">University of Dallas</h2>
+<strong>Irving, TX</strong>
+
+<div class="infolines">
+    <div class="row-fluid">
+        <div class="span10">Offers credit for AP Exams</div>
+        <div class="span2 alignRight">
+                <div class="short-status-green">Yes</div>
+        </div>
+    </div>    
+    <div class="row-fluid">
+        <div class="span10">Offers placement into higher-level courses for AP Exams</div>
+        <div class="span2 alignRight">
+                <div class="short-status-green">Yes</div>
+        </div>
+    </div>    
+</div>
+
+
+<p>
+    <strong>From the college:</strong>
+    <i>The University may grant both placement and credit toward the undergraduate degree through the Advance Placement Examinations of the College Entrance Examination Board. The AP credit awarded is generally equivalent to six credits earned at the University of Dallas. A score of four or better on the particular AP examination may secure the student immediate placement out of and credit for the comparable course or courses at the University. A score of three may secure immediate placement and/or retroactive credit toward the degree upon completion of another course in that area of study with a grade of B or better.</i>
+    <br/>
+    For more information, <a href="http://www.udallas.edu/offices/registrar/apandibcredits.html" target="_blank" title="Opens a new window">view the credit policy on this college's website</a>.
+</p>
+
+ <p class="box-padding-3">
+    Additional restrictions and requirements may apply to the policy listed below. For more detailed information, visit the college's AP policy on the Web or contact the college directly.
+ </p>
+
+ <table id="creditPolicyTable" class="table table-striped table-condensed datatable top-bold-border bottom-border" summary="This table of Credit Policy gives credit information (column headings) for list of exams (row headings).">
+    <caption class="visuallyhidden">University of Dallas Credit Policy</caption>
+    <thead>
+        <tr>
+            <th scope="col" class="">Exam<br/>Title</th>
+            <th scope="col">Min. Score<br/>Required</th>
+            <th scope="col">Number<br/>of Credits</th>
+            <th scope="col">Equivalent<br/>Course</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td scope="row">Art History</td>
+            <td>4</td>
+            <td>6</td>
+            <td>ART 1311, 1312</td>
+        </tr>
+        <tr>
+            <td scope="row">Biology</td>
+            <td>4</td>
+            <td>8</td>
+            <td>BIO 1311, 1111, 1312, 1112</td>
+        </tr>
+        <tr>
+            <td scope="row">Calculus AB</td>
+            <td>4</td>
+            <td>4</td>
+            <td>MAT 1404</td>
+        </tr>
+        <tr>
+            <td scope="row">Calculus BC</td>
+            <td>4</td>
+            <td>8</td>
+            <td>MAT 1404, 1411</td>
+        </tr>
+        <tr>
+            <td scope="row">Chemistry</td>
+            <td>4</td>
+            <td>6</td>
+            <td>CHE 1303, 1103, 1304, 1104</td>
+        </tr>
+        <tr>
+            <td scope="row">Comparative Government and Politics</td>
+            <td>4</td>
+            <td>3</td>
+            <td>1000-level elective</td>
+        </tr>
+        <tr>
+            <td scope="row">Computer Science A</td>
+            <td>5</td>
+            <td>4</td>
+            <td>MCS 2410</td>
+        </tr>
+        <tr>
+            <td scope="row">Computer Science AB</td>
+            <td>5</td>
+            <td>3</td>
+            <td>MCS 3316</td>
+        </tr>
+        <tr>
+            <td scope="row">English Language and Composition</td>
+            <td>4</td>
+            <td>6</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td scope="row">English Literature and Composition</td>
+            <td>4</td>
+            <td>6</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td scope="row">Environmental Science</td>
+            <td>4</td>
+            <td>3</td>
+            <td>BIO 2360</td>
+        </tr>
+        <tr>
+            <td scope="row">European History</td>
+            <td>5</td>
+            <td>6</td>
+            <td>HIS 2302 and 2000 elective</td>
+        </tr>
+        <tr>
+            <td scope="row">French Language and Culture</td>
+            <td>4</td>
+            <td>3</td>
+            <td>MFR 3323</td>
+        </tr>
+        <tr>
+            <td scope="row">French Literature</td>
+            <td>4</td>
+            <td>3</td>
+            <td>MFR 3321</td>
+        </tr>
+        <tr>
+            <td scope="row">German Language and Culture</td>
+            <td>4</td>
+            <td>3</td>
+            <td>MGE 3311</td>
+        </tr>
+        <tr>
+            <td scope="row">Latin</td>
+            <td>5</td>
+            <td>3</td>
+            <td>CLL 2312</td>
+        </tr>
+        <tr>
+            <td scope="row">Latin Literature</td>
+            <td>5</td>
+            <td>3</td>
+            <td>CLL 2312</td>
+        </tr>
+        <tr>
+            <td scope="row">Macroeconomics</td>
+            <td>4</td>
+            <td>3</td>
+            <td>General Elective</td>
+        </tr>
+        <tr>
+            <td scope="row">Microeconomics</td>
+            <td>4</td>
+            <td>3</td>
+            <td>ECO 1311</td>
+        </tr>
+        <tr>
+            <td scope="row">Music Theory</td>
+            <td>4</td>
+            <td>6</td>
+            <td>MUS 1320, 1321</td>
+        </tr>
+        <tr>
+            <td scope="row">Physics B</td>
+            <td>4</td>
+            <td>4</td>
+            <td>PHY 2311, 2111</td>
+        </tr>
+        <tr>
+            <td scope="row">Physics C: Electricity and Magnetism</td>
+            <td>4</td>
+            <td>8</td>
+            <td>PHY 2311, 2111, 2312, 2112</td>
+        </tr>
+        <tr>
+            <td scope="row">Psychology</td>
+            <td>5</td>
+            <td>3</td>
+            <td>PSY 2313</td>
+        </tr>
+        <tr>
+            <td scope="row">Spanish Language</td>
+            <td>4</td>
+            <td>3</td>
+            <td>MSP 3323</td>
+        </tr>
+        <tr>
+            <td scope="row">Spanish Literature and Culture</td>
+            <td>4</td>
+            <td>3</td>
+            <td>MSP 3320 </td>
+        </tr>
+        <tr>
+            <td scope="row">Statistics</td>
+            <td>4</td>
+            <td>3</td>
+            <td>MAT 2305</td>
+        </tr>
+        <tr>
+            <td scope="row">Studio Art: Drawing Portfolio</td>
+            <td>4</td>
+            <td>3</td>
+            <td>ART 1203,1204</td>
+        </tr>
+        <tr>
+            <td scope="row">United States Government and Politics</td>
+            <td>4</td>
+            <td>3</td>
+            <td>1000-level elective</td>
+        </tr>
+        <tr>
+            <td scope="row">United States History</td>
+            <td>5</td>
+            <td>6</td>
+            <td>HIS 1311, 1312</td>
+        </tr>
+    </tbody>
+ </table>     
+<!-- END SHARED FTL  -->

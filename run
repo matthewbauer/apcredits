@@ -1,0 +1,7 @@
+#!/bin/sh
+
+sudo nginx -c nginx.conf -p .
+
+go build
+
+./apcredit

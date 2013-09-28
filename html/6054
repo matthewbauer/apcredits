@@ -1,0 +1,26 @@
+<h2 style="font-size: 22px;">Brazosport College</h2>
+<strong>Lake Jackson, TX</strong>
+
+<div class="infolines">
+    <div class="row-fluid">
+        <div class="span10">Offers credit for AP Exams</div>
+        <div class="span2 alignRight">
+	     --
+        </div>
+    </div>    
+    <div class="row-fluid">
+        <div class="span10">Offers placement into higher-level courses for AP Exams</div>
+        <div class="span2 alignRight">
+	     --
+        </div>
+    </div>    
+</div>
+
+
+<p>
+    <strong>From the college:</strong>
+    <i>Special examinations provide students an opportunity to establish credit for certain courses. Credit may be earned by Advanced Placement Exams. To apply for credit by examination, students must complete a petition for credit by examination in the Counseling and Testing Office. A minimum of 6 semester credit hours must be earned at Brazosport College before credit will be posted to the student's transcript. A maximum of 24 hours may be earned by exam.</i>
+    <br/>
+</p>
+
+<!-- END SHARED FTL  -->

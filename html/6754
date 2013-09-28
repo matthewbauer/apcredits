@@ -1,0 +1,26 @@
+<h2 style="font-size: 22px;">Northeast Iowa Community College</h2>
+<strong>Calmar, IA</strong>
+
+<div class="infolines">
+    <div class="row-fluid">
+        <div class="span10">Offers credit for AP Exams</div>
+        <div class="span2 alignRight">
+	     --
+        </div>
+    </div>    
+    <div class="row-fluid">
+        <div class="span10">Offers placement into higher-level courses for AP Exams</div>
+        <div class="span2 alignRight">
+	     --
+        </div>
+    </div>    
+</div>
+
+
+<p>
+    <strong>From the college:</strong>
+    <i>NICC will award credit or advance standing through the AP program in Biology, Chemistry, Computer Science, Economics, English, History, Mathematics, and Physics.  Generally, students scoring three or higher on the exams will have those courses accepted for credit by NICC.  In some cases an academic department may determine that a higher score is required before credit is granted.</i>
+    <br/>
+</p>
+
+<!-- END SHARED FTL  -->

@@ -1,0 +1,56 @@
+
+Art History;3;3;ART 300
+Art History;4;6;ART 311, 900
+Biology;3;3;BIOL 900
+Biology;3;4;BIO 101
+Biology;4;4;BIO 111
+Biology;5;8;BIOI 111, 112
+Calculus AB;3;3;MATH 900
+Calculus AB;4;5;MTH 271
+Calculus BC;3;5;MTH 271
+Calculus BC;4;10;MTH 271, 272
+Chemistry;3;4;SCI 115
+Chemistry;4;--;-
+Comparative Government and Politics;3;3;POL 308
+Comparative Government and Politics;4;6;POL 308, 211
+Computer Science A;3;3;BUS 201
+Computer Science A;4;6;BUS 201, 900
+English Language and Composition;3;3;WRT 900
+English Language and Composition;5;6;WRT 102, 900
+English Literature and Composition;3;--;ENG 900
+English Literature and Composition;5;--;ENG 201, 900
+Environmental Science;3;4;BIO 900
+European History;3;4;HST 338
+European History;4;6;HST 338, 335
+Human Geography;3;3;GEO 201
+Human Geography;4;6;GEO 201, 900
+Latin;3;4;LAT 101
+Latin;4;8;LAT 101, 102
+Macroeconomics;3;3;ECO 201
+Macroeconomics;4;6;ECO 201, 900
+Microeconomics;3;3;ECO 202
+Microeconomics;4;6;ECO 202, 900
+Music Theory;3;3;MUS 201
+Music Theory;4;6;MUS 201, 211, 900
+Physics B;3;4;SCI 115
+Physics B;4;4;PHY 211
+Physics C: Electricity and Magnetism;3;4;SCI 115
+Physics C: Electricity and Magnetism;4;4;PHY 212
+Physics C: Mechanics;3;4;SCI 115
+Physics C: Mechanics;4;4;PHY 212
+Spanish Language;3;4;SPA 101
+Spanish Language;4;8;SPA 101, 102
+Spanish Literature and Culture;3;3;SPA 201
+Spanish Literature and Culture;4;6;SPA 201, 202
+Statistics;3;3;MTH 900
+Statistics;4;3;MTH 265
+Studio Art: 2-D Design Portfolio;3;3;ART 200
+Studio Art: 2-D Design Portfolio;4;6;ART 200, 900
+Studio Art: Drawing Portfolio;3;3;ART 201
+Studio Art: Drawing Portfolio;4;6;ART 201, 900
+United States Government and Politics;3;3;POL 211
+United States Government and Politics;4;6;POL 311
+United States History;3;3;HST 226
+United States History;4;6;HST 226, C2
+World History;3;3;C3
+World History;4;6;HST 900, C3

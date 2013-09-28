@@ -1,0 +1,27 @@
+<h2 style="font-size: 22px;">Columbia Basin College</h2>
+<strong>Pasco, WA</strong>
+
+<div class="infolines">
+    <div class="row-fluid">
+        <div class="span10">Offers credit for AP Exams</div>
+        <div class="span2 alignRight">
+                <div class="short-status-red">No</div>
+        </div>
+    </div>    
+    <div class="row-fluid">
+        <div class="span10">Offers placement into higher-level courses for AP Exams</div>
+        <div class="span2 alignRight">
+                <div class="short-status-red">No</div>
+        </div>
+    </div>    
+</div>
+
+
+<p>
+    <strong>From the college:</strong>
+    <i>A score of 3 or higher will earn five credits. A score of 4 or 5 on a foreign language Advanced Placement Exam will earn ten credits. For further information on AP credits, contact the transcript office.</i>
+    <br/>
+    For more information, <a href="http://www.columbiabasin.edu/index.aspx?page=1476" target="_blank" title="Opens a new window">view the credit policy on this college's website</a>.
+</p>
+
+<!-- END SHARED FTL  -->

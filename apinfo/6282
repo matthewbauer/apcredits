@@ -1,0 +1,31 @@
+
+Biology;3;4;BIOL 1404
+Biology;4;4;BIOL 2454
+Calculus AB;3;4;MATH 1434
+Calculus AB;4;8;MATH 1434, 1451
+Calculus BC;3;4;MATH 1451
+Calculus BC;4;8;MATH 1451,1452
+Chemistry;3;4;CHEM 1404
+Chemistry;4;4;CHEM 2415
+Comparative Government and Politics;3;3;-
+Computer Science AB;4;3;CISM 1321
+English Language and Composition;3;3;ENGL 1330
+English Literature and Composition;4;6;ENGL 1330,2315,2325
+European History;3;3;HIST 2312
+French Language and Culture;3;9;FREN 1314, 1324, 2314
+French Language and Culture;4;12;FREN 1314, 1324, 2314, 2324
+French Literature;3;12;FREN 1314, 1324, 2314, 2324
+German Language and Culture;3;9;GERM 1314, 1324, 2314
+German Language and Culture;4;12;GERM 1314, 1324, 2314, 2324
+Macroeconomics;4;3;ECON 2312
+Microeconomics;4;3;ECON 2311
+Psychology;4;3;PSUC 1313
+Spanish Language;3;9;SPAN 1314, 1324, 2314
+Spanish Language;4;12;SPAN 1314, 1324, 2314, 2324
+Spanish Literature and Culture;3;12;SPAN 1314, 1324, 2314, 2324
+Statistics;4;4;PSYC 2301
+United States Government and Politics;3;3;GOVT 2312
+United States History;3;3;HIST 2313
+United States History;4;6;HIST 2313, 2323
+World History;3;3;HIST 2311
+World History;4;6;HIST 2311,2312

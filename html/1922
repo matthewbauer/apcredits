@@ -1,0 +1,278 @@
+<h2 style="font-size: 22px;">Wittenberg University</h2>
+<strong>Springfield, OH</strong>
+
+<div class="infolines">
+    <div class="row-fluid">
+        <div class="span10">Offers credit for AP Exams</div>
+        <div class="span2 alignRight">
+                <div class="short-status-green">Yes</div>
+        </div>
+    </div>    
+    <div class="row-fluid">
+        <div class="span10">Offers placement into higher-level courses for AP Exams</div>
+        <div class="span2 alignRight">
+                <div class="short-status-green">Yes</div>
+        </div>
+    </div>    
+</div>
+
+
+<p>
+    <strong>From the college:</strong>
+    <i>Advanced placement and credit given to students scoring 4 and 5 on the Advanced Placement examinations in respective fields. Departments make recommendations regarding advanced placement and/or credit for students scoring 3.</i>
+    <br/>
+    For more information, <a href="http://www5.wittenberg.edu/sites/default/files/media/provost/CATALOG1213_4.pdf" target="_blank" title="Opens a new window">view the credit policy on this college's website</a>.
+</p>
+
+ <p class="box-padding-3">
+    Additional restrictions and requirements may apply to the policy listed below. For more detailed information, visit the college's AP policy on the Web or contact the college directly.
+ </p>
+
+ <table id="creditPolicyTable" class="table table-striped table-condensed datatable top-bold-border bottom-border" summary="This table of Credit Policy gives credit information (column headings) for list of exams (row headings).">
+    <caption class="visuallyhidden">Wittenberg University Credit Policy</caption>
+    <thead>
+        <tr>
+            <th scope="col" class="">Exam<br/>Title</th>
+            <th scope="col">Min. Score<br/>Required</th>
+            <th scope="col">Number<br/>of Credits</th>
+            <th scope="col">Equivalent<br/>Course</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td scope="row">Art History</td>
+            <td>4</td>
+            <td>4</td>
+            <td>ART 110H</td>
+        </tr>
+        <tr>
+            <td scope="row">Biology</td>
+            <td>4</td>
+            <td>4</td>
+            <td>BIOL 110N</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>5</td>
+            <td>5</td>
+            <td>BIOL 250B</td>
+        </tr>
+        <tr>
+            <td scope="row">Calculus AB</td>
+            <td>3</td>
+            <td>--</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>4</td>
+            <td>4</td>
+            <td>MATH 201Q</td>
+        </tr>
+        <tr>
+            <td scope="row">Calculus BC</td>
+            <td>3</td>
+            <td>--</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>4</td>
+            <td>8</td>
+            <td>MATH 201Q, 202Q</td>
+        </tr>
+        <tr>
+            <td scope="row">Calculus BC: AB Subscore</td>
+            <td>3</td>
+            <td>--</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>4</td>
+            <td>4</td>
+            <td>MATH 201Q</td>
+        </tr>
+        <tr>
+            <td scope="row">Chemistry</td>
+            <td>3</td>
+            <td>--</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>4</td>
+            <td>5</td>
+            <td>CHEM 121B</td>
+        </tr>
+        <tr>
+            <td scope="row">Comparative Government and Politics</td>
+            <td>3</td>
+            <td>--</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>4</td>
+            <td>4</td>
+            <td>POLS 102S</td>
+        </tr>
+        <tr>
+            <td scope="row">Computer Science A</td>
+            <td>3</td>
+            <td>--</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>4</td>
+            <td>5</td>
+            <td>COMP 150Q</td>
+        </tr>
+        <tr>
+            <td scope="row">English Language and Composition</td>
+            <td>4</td>
+            <td>4</td>
+            <td>ENGL 101E</td>
+        </tr>
+        <tr>
+            <td scope="row">English Literature and Composition</td>
+            <td>4</td>
+            <td>4</td>
+            <td>ENGL 180A</td>
+        </tr>
+        <tr>
+            <td scope="row">Environmental Science</td>
+            <td>4</td>
+            <td>--</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td scope="row">European History</td>
+            <td>4</td>
+            <td>4</td>
+            <td>HIST 112H</td>
+        </tr>
+        <tr>
+            <td scope="row">French Language and Culture</td>
+            <td>4</td>
+            <td>5</td>
+            <td>FREN 112F</td>
+        </tr>
+        <tr>
+            <td scope="row">German Language and Culture</td>
+            <td>4</td>
+            <td>--</td>
+            <td>GERM 112F</td>
+        </tr>
+        <tr>
+            <td scope="row">Human Geography</td>
+            <td>4</td>
+            <td>4</td>
+            <td>GEOG 101S</td>
+        </tr>
+        <tr>
+            <td scope="row">Latin</td>
+            <td>4</td>
+            <td>4</td>
+            <td>LATN XXX</td>
+        </tr>
+        <tr>
+            <td scope="row">Macroeconomics</td>
+            <td>3</td>
+            <td>--</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>4</td>
+            <td>6</td>
+            <td>ECON 190S and ECON 205</td>
+        </tr>
+        <tr>
+            <td scope="row">Microeconomics</td>
+            <td>3</td>
+            <td>--</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>4</td>
+            <td>6</td>
+            <td>EON 190S and ECON 205</td>
+        </tr>
+        <tr>
+            <td scope="row">Music Theory</td>
+            <td>4</td>
+            <td>4</td>
+            <td>MUSI 102A</td>
+        </tr>
+        <tr>
+            <td scope="row">Physics B</td>
+            <td>4</td>
+            <td>4</td>
+            <td>PHYS 100N</td>
+        </tr>
+        <tr>
+            <td scope="row">Physics C: Electricity and Magnetism</td>
+            <td>4</td>
+            <td>4</td>
+            <td>PHYS 100N</td>
+        </tr>
+        <tr>
+            <td scope="row">Physics C: Mechanics</td>
+            <td>4</td>
+            <td>4</td>
+            <td>PHYS 100N</td>
+        </tr>
+        <tr>
+            <td scope="row">Spanish Language</td>
+            <td>4</td>
+            <td>5</td>
+            <td>SPAN 112F</td>
+        </tr>
+        <tr>
+            <td scope="row">Statistics</td>
+            <td>--</td>
+            <td>4</td>
+            <td>MATH 227Q</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>3</td>
+            <td>--</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td scope="row">Studio Art: Drawing Portfolio</td>
+            <td>4</td>
+            <td>--</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td scope="row">United States Government and Politics</td>
+            <td>3</td>
+            <td>--</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>4</td>
+            <td>4</td>
+            <td>POLI 101S</td>
+        </tr>
+        <tr>
+            <td scope="row">United States History</td>
+            <td>4</td>
+            <td>4</td>
+            <td>HIST 221H</td>
+        </tr>
+        <tr>
+            <td scope="row">World History</td>
+            <td>4</td>
+            <td>4</td>
+            <td>HIST 106H</td>
+        </tr>
+    </tbody>
+ </table>     
+<!-- END SHARED FTL  -->

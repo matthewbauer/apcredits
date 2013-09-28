@@ -1,0 +1,62 @@
+
+Art History;3;3;ARTH 1500
+Art History;4;6;ARTH 1500, 2001
+Art History;5;9;ARTH 1500, 2001, 2003
+Biology;3;3;BIOL 1120
+Biology;4;4;BIOL 2150
+Biology;5;8;BIOL 2150, 2170
+Calculus AB;3;4;MATH 1850
+Calculus BC;3;8;MATH 1850, 1860
+Chemistry;3;3;CHEM 1100
+Chemistry;4;5;CHEM 1230, 1280
+Chemistry;5;10;CHEM 1230, 1280, 1240, 1290
+Chinese Language and Culture;3;5;CHIN 1110,1120
+Chinese Language and Culture;4;11;CHIN 1110,1120,2140
+Chinese Language and Culture;5;14;CHIN 1110,1120,2140,2150
+Computer Science A;3;3;EECS 1560
+Computer Science AB;3;3;EECS 1560
+English Language and Composition;3;3;ENGL 1110
+English Language and Composition;4;6;ENGL 1110, 1130
+English Language and Composition;5;9;ENGL 1110, 1130
+English Literature and Composition;3;3;ENGL 1110
+English Literature and Composition;4;6;ENGL 1110,2710
+Environmental Science;3;3;EEES 2010
+European History;3;6;HIST 1010, 1020
+French Language and Culture;3;8;FREN 1110,1120
+French Language and Culture;4;11;FREN 1110,1120,2140
+French Language and Culture;5;14;FREN 1110,1120,2140,2150
+French Literature;3;3;FREN 3010
+French Literature;4;6;FREN 3010, 3020
+French Literature;5;9;FREN 3010, 3020, 4980
+German Language and Culture;3;8;GERM 1110,1120
+German Language and Culture;4;11;GERM 1110,1120,2140
+German Language and Culture;5;14;GERM 1110,1120,2140,2150
+Italian Language and Culture;3;8;ZFNL 111E, 112E
+Italian Language and Culture;4;11;ZFNL 111E,112E,214E
+Italian Language and Culture;5;14;ZFNL 111E,112E,214E,215E
+Japanese Language and Culture;3;8;JAPN 1110,1120
+Japanese Language and Culture;4;11;JAPN 1110,1120,2140
+Japanese Language and Culture;5;14;JAPN 1110,1120,2140,2150
+Latin;3;8;LAT 1110,1120
+Latin;4;11;LAT 1110,1120,2140
+Latin;5;14;LAT 1110,1120,2140,2150
+Macroeconomics;3;3;ECON 1150
+Microeconomics;3;3;ECON 1200
+Music Theory;3;3;MUS 2200
+Physics B;3;10;PHYS 2070, 2080
+Physics C: Electricity and Magnetism;4;5;PHYS 2140
+Physics C: Mechanics;4;5;PHYS 2130
+Psychology;3;3;PSY 1010
+Spanish Language;3;8;SPAN 1110,1120
+Spanish Language;4;11;SPAN 1110,1120,2140
+Spanish Language;5;14;SPAN 1110,1120,2140,2150
+Spanish Literature and Culture;3;8;SPAN 1110,1120
+Spanish Literature and Culture;4;11;SPAN 1110,1120,2140
+Spanish Literature and Culture;5;14;SPAN 1110,1120,2140,2150
+Statistics;3;3;MATH 2630
+Studio Art: 2-D Design Portfolio;4;3;ART 2050
+Studio Art: 3-D Design Portfolio;4;3;ART 2060
+Studio Art: Drawing Portfolio;4;3;ART 1080
+United States Government and Politics;3;3;PSC 1200
+United States History;3;6;HIST 2010, 2020
+World History;3;6;HIST 1050, 1060

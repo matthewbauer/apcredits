@@ -1,0 +1,27 @@
+<h2 style="font-size: 22px;">Franklin W. Olin College of Engineering</h2>
+<strong>Needham, MA</strong>
+
+<div class="infolines">
+    <div class="row-fluid">
+        <div class="span10">Offers credit for AP Exams</div>
+        <div class="span2 alignRight">
+	     --
+        </div>
+    </div>    
+    <div class="row-fluid">
+        <div class="span10">Offers placement into higher-level courses for AP Exams</div>
+        <div class="span2 alignRight">
+	     --
+        </div>
+    </div>    
+</div>
+
+
+<p>
+    <strong>From the college:</strong>
+    <i>No credit is awarded for AP.</i>
+    <br/>
+    For more information, <a href="http://www.olin.edu/admission/applying_to_olin.aspx" target="_blank" title="Opens a new window">view the credit policy on this college's website</a>.
+</p>
+
+<!-- END SHARED FTL  -->

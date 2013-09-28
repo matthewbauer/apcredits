@@ -1,0 +1,332 @@
+<h2 style="font-size: 22px;">Loyola University Maryland</h2>
+<strong>Baltimore, MD</strong>
+
+<div class="infolines">
+    <div class="row-fluid">
+        <div class="span10">Offers credit for AP Exams</div>
+        <div class="span2 alignRight">
+                <div class="short-status-green">Yes</div>
+        </div>
+    </div>    
+    <div class="row-fluid">
+        <div class="span10">Offers placement into higher-level courses for AP Exams</div>
+        <div class="span2 alignRight">
+                <div class="short-status-green">Yes</div>
+        </div>
+    </div>    
+</div>
+
+
+<p>
+    <strong>From the college:</strong>
+    <i>Students who have taken an Advanced Placement course may obtain college credit at Loyola if their performance on the examination is satisfactory. Credit, but no grade, is normally awarded and recorded on the student's transcript for a score of four or five, depending upon departmental policy.</i>
+    <br/>
+    For more information, <a href="http://www.loyola.edu/department/aasc/students/first-year.aspx" target="_blank" title="Opens a new window">view the credit policy on this college's website</a>.
+</p>
+
+ <p class="box-padding-3">
+    Additional restrictions and requirements may apply to the policy listed below. For more detailed information, visit the college's AP policy on the Web or contact the college directly.
+ </p>
+
+ <table id="creditPolicyTable" class="table table-striped table-condensed datatable top-bold-border bottom-border" summary="This table of Credit Policy gives credit information (column headings) for list of exams (row headings).">
+    <caption class="visuallyhidden">Loyola University Maryland Credit Policy</caption>
+    <thead>
+        <tr>
+            <th scope="col" class="">Exam<br/>Title</th>
+            <th scope="col">Min. Score<br/>Required</th>
+            <th scope="col">Number<br/>of Credits</th>
+            <th scope="col">Equivalent<br/>Course</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td scope="row">Art History</td>
+            <td>4</td>
+            <td>3</td>
+            <td>AH 110</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>5</td>
+            <td>6</td>
+            <td>AH 110 and AH 111 </td>
+        </tr>
+        <tr>
+            <td scope="row">Biology</td>
+            <td>4</td>
+            <td>3</td>
+            <td>BL 113 if  non-major</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>4</td>
+            <td>3</td>
+            <td>BL 121 and BL126 after successful completion of BL 118/119 with a grade of C or higher</td>
+        </tr>
+        <tr>
+            <td scope="row">Calculus AB</td>
+            <td>3</td>
+            <td>--</td>
+            <td>MA 151, MA 251</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>4</td>
+            <td>4</td>
+            <td>MA 251 </td>
+        </tr>
+        <tr>
+            <td scope="row">Calculus BC</td>
+            <td>3</td>
+            <td>4</td>
+            <td>MA 251</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>4</td>
+            <td>8</td>
+            <td>MA 251 and MA 252</td>
+        </tr>
+        <tr>
+            <td scope="row">Chemistry</td>
+            <td>3</td>
+            <td>--</td>
+            <td>CH 110 for non-science majors</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>4</td>
+            <td>8</td>
+            <td>CH 101-105 &amp;  CH 102-106</td>
+        </tr>
+        <tr>
+            <td scope="row">Comparative Government and Politics</td>
+            <td>4</td>
+            <td>3</td>
+            <td>PS 350</td>
+        </tr>
+        <tr>
+            <td scope="row">Computer Science A</td>
+            <td>4</td>
+            <td>4</td>
+            <td>CS 201</td>
+        </tr>
+        <tr>
+            <td scope="row">Computer Science AB</td>
+            <td>3</td>
+            <td>4</td>
+            <td>CS 201</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>4</td>
+            <td>8</td>
+            <td>CS 201 and CS 202 with permission of dept. chair</td>
+        </tr>
+        <tr>
+            <td scope="row">English Language and Composition</td>
+            <td>4</td>
+            <td>3</td>
+            <td>WR100 </td>
+        </tr>
+        <tr>
+            <td scope="row">English Literature and Composition</td>
+            <td>4</td>
+            <td>3</td>
+            <td>EN 101</td>
+        </tr>
+        <tr>
+            <td scope="row">European History</td>
+            <td>5</td>
+            <td>3</td>
+            <td> HS 101</td>
+        </tr>
+        <tr>
+            <td scope="row">French Language and Culture</td>
+            <td>4</td>
+            <td>6</td>
+            <td>FR 104 and 201*</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>5</td>
+            <td>6</td>
+            <td>FR 104 and 201</td>
+        </tr>
+        <tr>
+            <td scope="row">French Literature</td>
+            <td>4</td>
+            <td>3</td>
+            <td>FR 104</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>5</td>
+            <td>6</td>
+            <td>FR 104 and FR 200-level literature course</td>
+        </tr>
+        <tr>
+            <td scope="row">German Language and Culture</td>
+            <td>4</td>
+            <td>6</td>
+            <td>GR 104 and 201</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>5</td>
+            <td>6</td>
+            <td>GR 104 and 201</td>
+        </tr>
+        <tr>
+            <td scope="row">Human Geography</td>
+            <td>4</td>
+            <td>3</td>
+            <td>GY 201</td>
+        </tr>
+        <tr>
+            <td scope="row">Italian Language and Culture</td>
+            <td>4</td>
+            <td>6</td>
+            <td>IT 104 and IT 201</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>5</td>
+            <td>6</td>
+            <td>IT 104 and IT 201</td>
+        </tr>
+        <tr>
+            <td scope="row">Latin</td>
+            <td>4</td>
+            <td>6</td>
+            <td>LT 123 and 124</td>
+        </tr>
+        <tr>
+            <td scope="row">Latin Literature</td>
+            <td>4</td>
+            <td>6</td>
+            <td>LT 123 AND 124</td>
+        </tr>
+        <tr>
+            <td scope="row">Macroeconomics</td>
+            <td>4</td>
+            <td>3</td>
+            <td>EC 103</td>
+        </tr>
+        <tr>
+            <td scope="row">Microeconomics</td>
+            <td>4</td>
+            <td>3</td>
+            <td>EC 102</td>
+        </tr>
+        <tr>
+            <td scope="row">Music Aural Subscore</td>
+            <td>4</td>
+            <td>3</td>
+            <td>MU 203</td>
+        </tr>
+        <tr>
+            <td scope="row">Music Non-Aural Subscore</td>
+            <td>4</td>
+            <td>3</td>
+            <td>MU 203</td>
+        </tr>
+        <tr>
+            <td scope="row">Music Theory</td>
+            <td>5</td>
+            <td>6</td>
+            <td>MU 302 and 310</td>
+        </tr>
+        <tr>
+            <td scope="row">Physics B</td>
+            <td>4</td>
+            <td>6</td>
+            <td>PH 101 and 102</td>
+        </tr>
+        <tr>
+            <td scope="row">Physics C: Electricity and Magnetism</td>
+            <td>4</td>
+            <td>4</td>
+            <td>PH 202 and 292</td>
+        </tr>
+        <tr>
+            <td scope="row">Physics C: Mechanics</td>
+            <td>4</td>
+            <td>4</td>
+            <td>PH 201 and 291</td>
+        </tr>
+        <tr>
+            <td scope="row">Psychology</td>
+            <td>4</td>
+            <td>3</td>
+            <td>PY 101</td>
+        </tr>
+        <tr>
+            <td scope="row">Spanish Language</td>
+            <td>4</td>
+            <td>6</td>
+            <td>SN 104 and 201</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>5</td>
+            <td>6</td>
+            <td>SN 104 and 201</td>
+        </tr>
+        <tr>
+            <td scope="row">Spanish Literature and Culture</td>
+            <td>4</td>
+            <td>3</td>
+            <td>SN 104</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>5</td>
+            <td>6</td>
+            <td>SN 104 and SN 200-level literature course</td>
+        </tr>
+        <tr>
+            <td scope="row">Statistics</td>
+            <td>3</td>
+            <td>3</td>
+            <td>ST 110</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>4</td>
+            <td>3</td>
+            <td>ST 210 or ST265 or EC 220 (Depending on Major)</td>
+        </tr>
+        <tr>
+            <td scope="row">Studio Art: 2-D Design Portfolio</td>
+            <td>5</td>
+            <td>3</td>
+            <td>SA 224 PLUS portfolio review by dept (does not fulfill core)</td>
+        </tr>
+        <tr>
+            <td scope="row">Studio Art: 3-D Design Portfolio</td>
+            <td>5</td>
+            <td>3</td>
+            <td>SA 302 PLUS portfolio </td>
+        </tr>
+        <tr>
+            <td scope="row">Studio Art: Drawing Portfolio</td>
+            <td>5</td>
+            <td>--</td>
+            <td>SA 225 </td>
+        </tr>
+        <tr>
+            <td scope="row">United States Government and Politics</td>
+            <td>4</td>
+            <td>3</td>
+            <td>PS 102</td>
+        </tr>
+        <tr>
+            <td scope="row">United States History</td>
+            <td>5</td>
+            <td>3</td>
+            <td> HS 340 or HS 341</td>
+        </tr>
+    </tbody>
+ </table>     
+<!-- END SHARED FTL  -->

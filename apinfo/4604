@@ -1,0 +1,40 @@
+
+Art History;3;3;ART 1A OR ART 1B
+Biology;3;4;BIOL 11
+Calculus AB;3;5;MATH 9
+Calculus AB;5;5;MATH 9*
+Calculus BC;3;5;MATH 9*
+Chemistry;3;4;CHEM 22
+Chemistry;5;4;CHEM 22*
+Comparative Government and Politics;3;3;POLSC2
+Computer Science A;3;3;CS 10
+Computer Science AB;3;3;CS 103
+English Language and Composition;3;6;-
+English Language and Composition;4;6;ENGL 1A
+English Literature and Composition;3;6;-
+English Literature and Composition;4;6;ENGL 1A
+Environmental Science;3;4;BIOL 37 OR PHYSC 37
+European History;3;3;HIST 7B
+French Language and Culture;3;6;Foreign Language 1
+French Language and Culture;4;6;Foreign Language 2
+French Language and Culture;5;6;Foreign Language 3
+German Language and Culture;3;6;Foreign Language 1
+German Language and Culture;4;6;Foreign Language 2
+German Language and Culture;5;6;Foreign Language 3
+Macroeconomics;3;3;ECON 1A
+Microeconomics;3;3;ECON 1B
+Music Aural Subscore;3;3;MUSIC 21
+Music Non-Aural Subscore;3;3;MUSIC 21
+Music Theory;3;3;MUSIC 1
+Physics B;3;3;PHYS 10
+Physics C: Electricity and Magnetism;3;8;PHYS 2A OR 2B
+Physics C: Mechanics;3;8;PHYS 2A OR 2B
+Psychology;3;3;PSYCH 1
+Spanish Language;3;6;Foreign Language 1
+Spanish Language;4;6;Foreign Language 2
+Spanish Language;5;6;Foreign Language 3
+Statistics;3;3;STAT 15 OR 18
+Statistics;5;3;STAT 15 OR 18 OR 50
+Studio Art: Drawing Portfolio;3;3;ART 11A
+United States Government and Politics;3;3;POLSC1
+United States History;3;3;HIST 7A

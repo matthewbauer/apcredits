@@ -1,0 +1,27 @@
+<h2 style="font-size: 22px;">College of the Albemarle</h2>
+<strong>Elizabeth City, NC</strong>
+
+<div class="infolines">
+    <div class="row-fluid">
+        <div class="span10">Offers credit for AP Exams</div>
+        <div class="span2 alignRight">
+                <div class="short-status-green">Yes</div>
+        </div>
+    </div>    
+    <div class="row-fluid">
+        <div class="span10">Offers placement into higher-level courses for AP Exams</div>
+        <div class="span2 alignRight">
+                <div class="short-status-green">Yes</div>
+        </div>
+    </div>    
+</div>
+
+
+<p>
+    <strong>From the college:</strong>
+    <i>The college recognizes satisfactory scores on the Advanced Placement (AP) Exams for course placement and degree credit. Students taking AP Exams should have score reports sent directly to the Admissions Office. Upon receipt of official Advanced Placement score reports, the Registrar evaluates course completed and applies credit toward the program being pursued at College of The Albemarle. Questions concerning score requirements and credit should be directed to the Registrar.</i>
+    <br/>
+    For more information, <a href="http://www.albemarle.edu" target="_blank" title="Opens a new window">view the credit policy on this college's website</a>.
+</p>
+
+<!-- END SHARED FTL  -->

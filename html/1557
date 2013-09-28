@@ -1,0 +1,26 @@
+<h2 style="font-size: 22px;">Northeast Mississippi Community College</h2>
+<strong>Booneville, MS</strong>
+
+<div class="infolines">
+    <div class="row-fluid">
+        <div class="span10">Offers credit for AP Exams</div>
+        <div class="span2 alignRight">
+                <div class="short-status-green">Yes</div>
+        </div>
+    </div>    
+    <div class="row-fluid">
+        <div class="span10">Offers placement into higher-level courses for AP Exams</div>
+        <div class="span2 alignRight">
+	     --
+        </div>
+    </div>    
+</div>
+
+
+<p>
+    <strong>From the college:</strong>
+    <i>Students enrolling at NEMCC may be awarded advanced college credit if they present satisfactory scores on the advanced placement examination administered through the College Entrance Examination Board and if they participated in and received credit for an AP course(s) offered through their high schools. This policy applies to each AP course for which a student is requesting credit. Students may receive up to twelve (12) hours credite with no more than eight (8) hours or two courses in one subject area.</i>
+    <br/>
+</p>
+
+<!-- END SHARED FTL  -->

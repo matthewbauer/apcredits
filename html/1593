@@ -1,0 +1,358 @@
+<h2 style="font-size: 22px;">Ohio University</h2>
+<strong>Athens, OH</strong>
+
+<div class="infolines">
+    <div class="row-fluid">
+        <div class="span10">Offers credit for AP Exams</div>
+        <div class="span2 alignRight">
+                <div class="short-status-green">Yes</div>
+        </div>
+    </div>    
+    <div class="row-fluid">
+        <div class="span10">Offers placement into higher-level courses for AP Exams</div>
+        <div class="span2 alignRight">
+                <div class="short-status-green">Yes</div>
+        </div>
+    </div>    
+</div>
+
+
+<p>
+    <strong>From the college:</strong>
+    <i>For AP credit to be considered, Ohio University Undergraduate Admissions must receive your scores directly from the College Board. In partnership with the Ohio Board of Regents, our faculty in the individual departments determine what score is required for credit and how the credit will be granted. Our web site includes a chart detailing the test scores currently accepted for credit. Please note that these evaluations are subject to change by decision of the faculty.</i>
+    <br/>
+    For more information, <a href="http://www.ohio.edu/admissions/transcredits/index.cfm#CP_JUMP_1400644" target="_blank" title="Opens a new window">view the credit policy on this college's website</a>.
+</p>
+
+ <p class="box-padding-3">
+    Additional restrictions and requirements may apply to the policy listed below. For more detailed information, visit the college's AP policy on the Web or contact the college directly.
+ </p>
+
+ <table id="creditPolicyTable" class="table table-striped table-condensed datatable top-bold-border bottom-border" summary="This table of Credit Policy gives credit information (column headings) for list of exams (row headings).">
+    <caption class="visuallyhidden">Ohio University Credit Policy</caption>
+    <thead>
+        <tr>
+            <th scope="col" class="">Exam<br/>Title</th>
+            <th scope="col">Min. Score<br/>Required</th>
+            <th scope="col">Number<br/>of Credits</th>
+            <th scope="col">Equivalent<br/>Course</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td scope="row">Art History</td>
+            <td>3</td>
+            <td>--</td>
+            <td>3 AH 2110 4
+4 AH 2110, AH 2120 8
+5 AH 2110, AH 2120 8</td>
+        </tr>
+        <tr>
+            <td scope="row">Biology</td>
+            <td>3</td>
+            <td>--</td>
+            <td>3 BIOS 1030 3
+4 BIOS 1030 3
+5 BIOS 1700 3</td>
+        </tr>
+        <tr>
+            <td scope="row">Calculus AB</td>
+            <td>3</td>
+            <td>--</td>
+            <td>3 MATH 2301 4
+4 MATH 2301 4
+5 MATH 2301 4</td>
+        </tr>
+        <tr>
+            <td scope="row">Calculus BC</td>
+            <td>3</td>
+            <td>--</td>
+            <td>3 MATH 2301, MATH 2302 8
+4 MATH 2301, MATH 2302 8
+5 MATH 2301, MATH 2302 8</td>
+        </tr>
+        <tr>
+            <td scope="row">Calculus BC: AB Subscore</td>
+            <td>--</td>
+            <td>--</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td scope="row">Chemistry</td>
+            <td>3</td>
+            <td>--</td>
+            <td>3 CHEM 1210 4
+4 CHEM 1510 4
+5 CHEM 1510 4</td>
+        </tr>
+        <tr>
+            <td scope="row">Chinese Language and Culture</td>
+            <td>3</td>
+            <td>--</td>
+            <td>3 CHIN 1110, CHIN 1120 8
+4 CHIN 1110, CHIN 1120, CHIN 1XXL 11
+5 CHIN 1110, CHIN 1120, CHIN 1XXL 11</td>
+        </tr>
+        <tr>
+            <td scope="row">Comparative Government and Politics</td>
+            <td>3</td>
+            <td>--</td>
+            <td>3 POLS 2300 3
+4 POLS 2300 3
+5 POLS 2300 3</td>
+        </tr>
+        <tr>
+            <td scope="row">Computer Science A</td>
+            <td>3</td>
+            <td>--</td>
+            <td>3 CS 2400 4
+4 CS 2400 4
+5 CS 2400 4</td>
+        </tr>
+        <tr>
+            <td scope="row">Computer Science AB</td>
+            <td>3</td>
+            <td>--</td>
+            <td>3 CS 2400 4
+4 CS 2400, CS 2XXL 7
+5 CS 2400, CS 2XXL 7</td>
+        </tr>
+        <tr>
+            <td scope="row">English Language and Composition</td>
+            <td>3</td>
+            <td>--</td>
+            <td>3 ENG 1510 3
+4 ENG 1510 3
+5 ENG 1510 3</td>
+        </tr>
+        <tr>
+            <td scope="row">English Literature and Composition</td>
+            <td>3</td>
+            <td>--</td>
+            <td>3 ENG 1510 3
+4 ENG 1510 3
+5 ENG 1510, ENG 2010 6</td>
+        </tr>
+        <tr>
+            <td scope="row">Environmental Science</td>
+            <td>3</td>
+            <td>--</td>
+            <td>3 GEOG 1400 3
+4 GEOG 1400 3
+5 GEOG 1400 3</td>
+        </tr>
+        <tr>
+            <td scope="row">European History</td>
+            <td>3</td>
+            <td>--</td>
+            <td>3 HIST 1220 3
+4 HIST 1220 3
+5 HIST 1220 3</td>
+        </tr>
+        <tr>
+            <td scope="row">French Language and Culture</td>
+            <td>3</td>
+            <td>--</td>
+            <td>3 FR 1110, FR 1120 8
+4 FR 2110, FR 2120, FR 3110 9
+5 FR 2110, FR 2120, FR 3110, FR 3120 12</td>
+        </tr>
+        <tr>
+            <td scope="row">French Literature</td>
+            <td>3</td>
+            <td>--</td>
+            <td>3 FR 1110, FR 1120, FR 2110 11
+4 FR 2120, FR 3540, FR 3550 9
+5 FR 2120, FR 3550, FR 3560 9</td>
+        </tr>
+        <tr>
+            <td scope="row">German Language and Culture</td>
+            <td>3</td>
+            <td>--</td>
+            <td>3 GER 1110, GER 1120 8
+4 GER 2110, GER 2120, GER 3110 9
+5 GER 2110, GER 2120, GER 3110, GER 3120 12</td>
+        </tr>
+        <tr>
+            <td scope="row">Human Geography</td>
+            <td>3</td>
+            <td>--</td>
+            <td>3 GEOG 1200 3
+4 GEOG 1200 3
+5 GEOG 1200 3</td>
+        </tr>
+        <tr>
+            <td scope="row">Italian Language and Culture</td>
+            <td>3</td>
+            <td>--</td>
+            <td>3 ITAL 1110, ITAL 1120 8
+4 ITAL 2110, ITAL 2120, ITAL 3110 9
+5 ITAL 3120 12</td>
+        </tr>
+        <tr>
+            <td scope="row">Japanese Language and Culture</td>
+            <td>3</td>
+            <td>--</td>
+            <td>3 JPN 1110, JPN 1120 8
+4 JPN 1110, JPN 1120, JPN 2XXL 9
+5 JPN 1110, JPN 1120, JPN 2XXL 9</td>
+        </tr>
+        <tr>
+            <td scope="row">Latin</td>
+            <td>3</td>
+            <td>--</td>
+            <td>3 LAT 1110, LAT 1120 8
+4 LAT 1120, LAT 2110, LAT 2120 10
+5 LAT 1120, LAT 2110, LAT 2120 10</td>
+        </tr>
+        <tr>
+            <td scope="row">Latin Literature</td>
+            <td>3</td>
+            <td>--</td>
+            <td>3 LAT 1110, LAT 1120 8
+4 LAT 1120, LAT 2110, LAT 2120 10
+5 LAT 1120, LAT 2110, LAT 2120 10</td>
+        </tr>
+        <tr>
+            <td scope="row">Macroeconomics</td>
+            <td>3</td>
+            <td>--</td>
+            <td>3 ECON 1040 3
+4 ECON 1040 3
+5 ECON 1040 3</td>
+        </tr>
+        <tr>
+            <td scope="row">Microeconomics</td>
+            <td>3</td>
+            <td>--</td>
+            <td>3 ECON 1030 3
+4 ECON 1030 3
+5 ECON 1030 3</td>
+        </tr>
+        <tr>
+            <td scope="row">Music Aural Subscore</td>
+            <td>--</td>
+            <td>--</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td scope="row">Music Non-Aural Subscore</td>
+            <td>--</td>
+            <td>--</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td scope="row">Music Theory</td>
+            <td>3</td>
+            <td>--</td>
+            <td>3 MUS 1XXL 3
+4 MUS 1XXL 3
+5 MUS 1XXL 3</td>
+        </tr>
+        <tr>
+            <td scope="row">Physics B</td>
+            <td>3</td>
+            <td>--</td>
+            <td>3 PHYS 2001, PHYS 2002 8
+4 PHYS 2001, PHYS 2002 8
+5 PHYS 2001, PHYS 2002 8</td>
+        </tr>
+        <tr>
+            <td scope="row">Physics C: Electricity and Magnetism</td>
+            <td>3</td>
+            <td>--</td>
+            <td>3 PHYS 2052 5
+4 PHYS 2052 5
+5 PHYS 2052 5</td>
+        </tr>
+        <tr>
+            <td scope="row">Physics C: Mechanics</td>
+            <td>3</td>
+            <td>--</td>
+            <td>3 PHYS 2051 5
+4 PHYS 2051 5
+5 PHYS 2051 5</td>
+        </tr>
+        <tr>
+            <td scope="row">Psychology</td>
+            <td>3</td>
+            <td>--</td>
+            <td>3 PSY 1010 3
+4 PSY 1010 3
+5 PSY 1010 3</td>
+        </tr>
+        <tr>
+            <td scope="row">Spanish Language</td>
+            <td>3</td>
+            <td>--</td>
+            <td>3 SPAN 1110, SPAN 1120 8
+4 SPAN 2110, SPAN 2120, SPAN 3110 9
+5 SPAN 3120 12</td>
+        </tr>
+        <tr>
+            <td scope="row">Spanish Literature and Culture</td>
+            <td>3</td>
+            <td>--</td>
+            <td>3 SPAN 1110, SPAN 1120, SPAN 2XXL 11
+4 SPAN 2120, SPAN 3XXL, SPAN 3550 9
+5 SPAN 2120, SPAN 3550, SPAN 3XXL 9</td>
+        </tr>
+        <tr>
+            <td scope="row">Statistics</td>
+            <td>3</td>
+            <td>--</td>
+            <td>3 MATH 2500 4
+4 MATH 2500 4
+5 MATH 2500, MATH 2XXL 7</td>
+        </tr>
+        <tr>
+            <td scope="row">Studio Art: 2-D Design Portfolio</td>
+            <td>3</td>
+            <td>--</td>
+            <td>3 ART 1200 4
+4 ART 1220 4
+5 ART 1200, ART 1220 8</td>
+        </tr>
+        <tr>
+            <td scope="row">Studio Art: 3-D Design Portfolio</td>
+            <td>3</td>
+            <td>--</td>
+            <td>3 ART 1210 4
+4 ART 1230 4
+5 ART 1210, ART 1230 8</td>
+        </tr>
+        <tr>
+            <td scope="row">Studio Art: Drawing Portfolio</td>
+            <td>3</td>
+            <td>--</td>
+            <td>3 ART 1200 4
+4 ART 1220 4
+5 ART 1200, ART 1220 8</td>
+        </tr>
+        <tr>
+            <td scope="row">United States Government and Politics</td>
+            <td>3</td>
+            <td>--</td>
+            <td>3 POLS 1010 3
+4 POLS 1010 3
+5 POLS 1010 3</td>
+        </tr>
+        <tr>
+            <td scope="row">United States History</td>
+            <td>3</td>
+            <td>--</td>
+            <td>3 HIST 2000, HIST 2010 6
+4 HIST 2000, HIST 2010 6
+5 HIST 2000, HIST 2010 6</td>
+        </tr>
+        <tr>
+            <td scope="row">World History</td>
+            <td>3</td>
+            <td>--</td>
+            <td>3 HIST 1320, HIST 1330 6
+4 HIST 1320, HIST 1330 6
+5 HIST 1320, HIST 1330 6</td>
+        </tr>
+    </tbody>
+ </table>     
+<!-- END SHARED FTL  -->

@@ -1,0 +1,62 @@
+
+Art History;3;5;ART X
+Art History;4;5;ART& 100
+Biology;3;5;BIOL X
+Biology;4;5;BIOL& 160
+Calculus AB;3;5;MATH& 151
+Calculus AB;5;10;MATH& 151, 152
+Calculus BC;3;5;MATH& 151
+Calculus BC;5;10;MATH& 151, 52
+Calculus BC: AB Subscore;3;5;MATH& 151
+Calculus BC: AB Subscore;5;10;MATH& 151, 152
+Chemistry;3;6;Chem& 141, 151
+Chemistry;4;13;CHEM& 141, 151, 142, 152
+Chemistry;5;19;CHEM& 141, 151, 142, 152, 143, 153
+Chinese Language and Culture;3;5;FLANG X
+Comparative Government and Politics;3;5;POLS X
+Computer Science A;3;10;CMPTR 110, 120
+Computer Science A;5;5;CS& 141
+Computer Science AB;3;10;CMPTR 110, 120
+Computer Science AB;5;5;CS& 141
+English Language and Composition;3;5;ENGL X
+English Language and Composition;4;5;ENGL& 101
+English Literature and Composition;3;5;ENGL X
+English Literature and Composition;4;5;ENGL& 111
+Environmental Science;3;5;ENVS X
+European History;3;5;HIST X
+French Language and Culture;3;10;FRCH& 121, 122
+French Literature;3;5;FRCH X
+German Language and Culture;3;5;GERM& 121
+German Language and Culture;5;10;GERM& 121, 122
+Human Geography;3;5;GEOG X
+Human Geography;4;5;GEOG& 103
+Italian Language and Culture;3;5;FLANG X
+Japanese Language and Culture;3;10;JAPN& 121, 122
+Japanese Language and Culture;5;15;JAPN& 121, 122,123
+Latin;3;5;HUMAN X
+Latin Literature;3;5;FLANG X
+Macroeconomics;3;5;ECON& 202
+Microeconomics;3;5;ECON& 201
+Music Aural Subscore;3;5;MUSC X
+Music Non-Aural Subscore;3;5;MUSC X
+Music Theory;3;5;MUSC X
+Physics B;3;5;PHYS X
+Physics B;4;18;PHYS 114, 115, 116
+Physics C: Electricity and Magnetism;3;5;PHYS X
+Physics C: Electricity and Magnetism;4;6;PHYS 255
+Physics C: Mechanics;3;5;PHYS X
+Physics C: Mechanics;4;6;PHYS 254
+Psychology;3;5;PSYC X
+Psychology;4;5;PSYC& 100
+Spanish Language;3;10;SPAN& 121, 122
+Spanish Literature and Culture;3;5;SPAN X
+Statistics;3;5;MATH X
+Statistics;4;5;MATH& 146
+Studio Art: 2-D Design Portfolio;3;5;ART X
+Studio Art: 3-D Design Portfolio;3;3;ART X
+Studio Art: Drawing Portfolio;3;3;ART X
+United States Government and Politics;3;5;POLS X
+United States Government and Politics;4;5;POLS& 202
+United States History;3;5;HIST X
+United States History;4;10;HIST& 136,137
+World History;3;5;HIST X

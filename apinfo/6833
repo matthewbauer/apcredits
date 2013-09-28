@@ -1,0 +1,35 @@
+
+Art History;4;3;ARTS 1303
+Art History;5;6;ARTS 1303, 1304
+Biology;3;4;BIOL 1406
+Biology;4;8;BIOL 1406, 1407
+Calculus AB;4;4;MATH 2413
+Calculus BC;3;4;MATH 2414
+Chemistry;3;4;CHEM 1411
+Chemistry;4;8;CHEM 1411, 1412
+English Language and Composition;3;3;ENGL1301
+English Language and Composition;4;6;ENGL1301, 1302
+English Literature and Composition;3;3;ENGL 2332
+English Literature and Composition;4;6;ENGL 2332, 2333
+European History;4;3;HIST 2311
+European History;5;6;HIST 2311, 2312
+French Language and Culture;3;8;FREN 1411, 1412
+French Language and Culture;5;11;FREN 1411, 1412, 2311
+German Language and Culture;3;8;GERM 1411, 1422
+Human Geography;3;3;GEOG 1303
+Macroeconomics;4;3;ECON 2301
+Microeconomics;4;3;ECON 2302
+Physics B;3;8;PHYS 1401, 1402
+Physics C: Electricity and Magnetism;3;4;PHYS 2426
+Physics C: Mechanics;3;4;PHYS 2425
+Spanish Language;3;8;SPAN 1411, 1412
+Spanish Language;5;11;SPAN 1411, 1412, 2311
+Statistics;3;3;MATH 1342
+Studio Art: 2-D Design Portfolio;3;3;ARTS 1311
+Studio Art: 2-D Design Portfolio;5;6;ARTS 1311, 1312
+Studio Art: Drawing Portfolio;3;3;ARTS 1303
+United States Government and Politics;3;3;GOVT 2305
+United States History;3;3;HIST 1301
+United States History;4;6;HIST 1301, 1302
+World History;4;3;HIST 2311
+World History;5;6;HIST 2311, 2312

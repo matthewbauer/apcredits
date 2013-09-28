@@ -1,0 +1,81 @@
+
+Biology;3;4;4 hours Biology Electives (non-majors only)
+Biology;4;4;"Biol 111
+Biol 111L"
+Biology;5;8;"Biol 111
+Biol 111L
+Biol 112
+Biol 112L"
+Calculus AB;3;3;Math 131
+Calculus BC;3;3;Math 131
+Calculus BC;4;6;"Math 131
+Math 132"
+Chemistry;4;4;"Chem 113
+Chem 113L"
+Chemistry;5;8;"Chem 113
+Chem 113L
+Chem 114
+Chem 114L"
+Comparative Government and Politics;4;--;POLS 210
+Computer Science A;4;3;CS 171
+Computer Science A;5;7;"CS 171
+CS 172
+CS 172L"
+Computer Science AB;4;7;"CS 171
+CS 172
+CS 172L"
+English Language and Composition;4;3;ENG 111
+English Language and Composition;5;--;"ENG 111
+ENG 112"
+English Literature and Composition;4;3;ENG 211
+English Literature and Composition;5;--;"ENG 211
+ENG 212"
+Environmental Science;4;--;"BIOL 107
+BIOL 107L"
+European History;4;3;Freshman Level History Electives
+European History;5;6;Freshman Level History Electives
+French Language and Culture;4;3;FREN 101
+French Language and Culture;5;6;"FREN 101
+FREN 102"
+French Literature;4;3;FREN 201
+French Literature;5;6;"FREN 201
+FREN 202"
+German Language and Culture;4;3;GERM 101
+German Language and Culture;5;6;"GERM 101
+GERM 102"
+Macroeconomics;4;3;ECON 215
+Microeconomics;4;3;ECON 214
+Physics B;4;4;"PHYS 201
+PHYS 201L"
+Physics B;5;8;"PHYS 201
+PHYS 201L
+PHYS 202
+PHYS 202L
+"
+Physics C: Electricity and Magnetism;4;4;"PHYS 251
+PHYS 251L"
+Physics C: Electricity and Magnetism;5;--;"PHYS 251
+PHYS 251L
+PHYS 252
+PHYS 252L"
+Physics C: Mechanics;4;4;"PHYS 150
+PHYS 150L"
+Psychology;4;3;PYSC 105
+Psychology;5;6;"PSYC 105
+PSYC Electives"
+Spanish Language;4;3;SPAN 101
+Spanish Language;5;6;"SPAN 101
+SPAN 102"
+Spanish Literature and Culture;4;3;SPAN 201
+Spanish Literature and Culture;5;6;"SPAN 201
+SPAN 202"
+Statistics;4;--;STAT 221
+Studio Art: 2-D Design Portfolio;5;3;Art Electives
+Studio Art: 3-D Design Portfolio;5;3;Art Electives
+Studio Art: Drawing Portfolio;5;3;Art Electives
+United States History;4;--;HIST 152
+United States History;5;--;"HIST 151
+HIST 152"
+World History;4;--;HIST 107
+World History;5;--;"HIST 107
+HIST 108"

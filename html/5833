@@ -1,0 +1,392 @@
+<h2 style="font-size: 22px;">University of West Florida</h2>
+<strong>Pensacola, FL</strong>
+
+<div class="infolines">
+    <div class="row-fluid">
+        <div class="span10">Offers credit for AP Exams</div>
+        <div class="span2 alignRight">
+                <div class="short-status-green">Yes</div>
+        </div>
+    </div>    
+    <div class="row-fluid">
+        <div class="span10">Offers placement into higher-level courses for AP Exams</div>
+        <div class="span2 alignRight">
+                <div class="short-status-green">Yes</div>
+        </div>
+    </div>    
+</div>
+
+
+<p>
+    <strong>From the college:</strong>
+    <i>A maximum of 30 semester hours may be accepted  for transfer. Credit toward major requirements must be approved by the student's major department.</i>
+    <br/>
+    For more information, <a href="http://uwf.edu/registrar/credexam.cfm" target="_blank" title="Opens a new window">view the credit policy on this college's website</a>.
+</p>
+
+ <p class="box-padding-3">
+    Additional restrictions and requirements may apply to the policy listed below. For more detailed information, visit the college's AP policy on the Web or contact the college directly.
+ </p>
+
+ <table id="creditPolicyTable" class="table table-striped table-condensed datatable top-bold-border bottom-border" summary="This table of Credit Policy gives credit information (column headings) for list of exams (row headings).">
+    <caption class="visuallyhidden">University of West Florida Credit Policy</caption>
+    <thead>
+        <tr>
+            <th scope="col" class="">Exam<br/>Title</th>
+            <th scope="col">Min. Score<br/>Required</th>
+            <th scope="col">Number<br/>of Credits</th>
+            <th scope="col">Equivalent<br/>Course</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td scope="row">Art History</td>
+            <td>3</td>
+            <td>3</td>
+            <td>ARH 1000</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>4</td>
+            <td>6</td>
+            <td>ARH 2050, 2051</td>
+        </tr>
+        <tr>
+            <td scope="row">Biology</td>
+            <td>3</td>
+            <td>4</td>
+            <td>BSC1005/L</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>4</td>
+            <td>4</td>
+            <td>BSC1010L</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>5</td>
+            <td>8</td>
+            <td>BSC1010/L &amp; BSC1011/L</td>
+        </tr>
+        <tr>
+            <td scope="row">Calculus AB</td>
+            <td>3</td>
+            <td>4</td>
+            <td>MAC2311</td>
+        </tr>
+        <tr>
+            <td scope="row">Calculus BC</td>
+            <td>3</td>
+            <td>4</td>
+            <td>MAC2311</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>4</td>
+            <td>8</td>
+            <td>MAC2311 &amp; MAC2312</td>
+        </tr>
+        <tr>
+            <td scope="row">Chemistry</td>
+            <td>3</td>
+            <td>4</td>
+            <td>CHM1020/L</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>4</td>
+            <td>4</td>
+            <td>CHM2045/L</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>5</td>
+            <td>8</td>
+            <td>CHM2045/L &amp; CHM2046/L</td>
+        </tr>
+        <tr>
+            <td scope="row">Chinese Language and Culture</td>
+            <td>3</td>
+            <td>4</td>
+            <td>CHI1120C</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>4</td>
+            <td>8</td>
+            <td>CHI1120C &amp; CHI1121C</td>
+        </tr>
+        <tr>
+            <td scope="row">Comparative Government and Politics</td>
+            <td>3</td>
+            <td>3</td>
+            <td>CPO2002</td>
+        </tr>
+        <tr>
+            <td scope="row">Computer Science A</td>
+            <td>3</td>
+            <td>3</td>
+            <td>CGS1075</td>
+        </tr>
+        <tr>
+            <td scope="row">Computer Science AB</td>
+            <td>3</td>
+            <td>3</td>
+            <td>CGS1076</td>
+        </tr>
+        <tr>
+            <td scope="row">English Language and Composition</td>
+            <td>3</td>
+            <td>3</td>
+            <td>ENC1101</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>4</td>
+            <td>6</td>
+            <td>ENC1101 &amp; ENC1102</td>
+        </tr>
+        <tr>
+            <td scope="row">English Literature and Composition</td>
+            <td>3</td>
+            <td>3</td>
+            <td>ENC1101</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>4</td>
+            <td>6</td>
+            <td>ENC1101 &amp; ENC1102</td>
+        </tr>
+        <tr>
+            <td scope="row">Environmental Science</td>
+            <td>3</td>
+            <td>3</td>
+            <td>ISC1051</td>
+        </tr>
+        <tr>
+            <td scope="row">European History</td>
+            <td>3</td>
+            <td>3</td>
+            <td>EUH1009</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>4</td>
+            <td>6</td>
+            <td>EUH1000 &amp; EUH1001</td>
+        </tr>
+        <tr>
+            <td scope="row">French Language and Culture</td>
+            <td>3</td>
+            <td>4</td>
+            <td>FRE1120C</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>4</td>
+            <td>8</td>
+            <td>FRE1120C &amp; FRE1121C</td>
+        </tr>
+        <tr>
+            <td scope="row">French Literature</td>
+            <td>3</td>
+            <td>3</td>
+            <td>FRW2100</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>4</td>
+            <td>6</td>
+            <td>FRW2100 &amp; FRW2101</td>
+        </tr>
+        <tr>
+            <td scope="row">German Language and Culture</td>
+            <td>3</td>
+            <td>4</td>
+            <td>GER1120C</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>4</td>
+            <td>8</td>
+            <td>GER1120C &amp; GER1121C</td>
+        </tr>
+        <tr>
+            <td scope="row">Human Geography</td>
+            <td>3</td>
+            <td>3</td>
+            <td>GEO1400</td>
+        </tr>
+        <tr>
+            <td scope="row">Italian Language and Culture</td>
+            <td>3</td>
+            <td>4</td>
+            <td>ITA1120C</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>4</td>
+            <td>8</td>
+            <td>ITA1120C &amp;ITA1121C</td>
+        </tr>
+        <tr>
+            <td scope="row">Japanese Language and Culture</td>
+            <td>3</td>
+            <td>4</td>
+            <td>JPN1120C</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>4</td>
+            <td>8</td>
+            <td>JPN1120C &amp; JPN1121C</td>
+        </tr>
+        <tr>
+            <td scope="row">Latin</td>
+            <td>3</td>
+            <td>3</td>
+            <td>LNW1321</td>
+        </tr>
+        <tr>
+            <td scope="row">Latin Literature</td>
+            <td>3</td>
+            <td>3</td>
+            <td>LNW1700</td>
+        </tr>
+        <tr>
+            <td scope="row">Macroeconomics</td>
+            <td>3</td>
+            <td>3</td>
+            <td>ECO2013</td>
+        </tr>
+        <tr>
+            <td scope="row">Microeconomics</td>
+            <td>3</td>
+            <td>3</td>
+            <td>ECO2023</td>
+        </tr>
+        <tr>
+            <td scope="row">Music Theory</td>
+            <td>3</td>
+            <td>3</td>
+            <td>MUT1001</td>
+        </tr>
+        <tr>
+            <td scope="row">Physics B</td>
+            <td>3</td>
+            <td>4</td>
+            <td>PHY2053/L</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>4</td>
+            <td>8</td>
+            <td>PHY2053/L &amp; PHY2054/L</td>
+        </tr>
+        <tr>
+            <td scope="row">Physics C: Electricity and Magnetism</td>
+            <td>3</td>
+            <td>4</td>
+            <td>PHY2054/L</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>4</td>
+            <td>4</td>
+            <td>PHY2049/L</td>
+        </tr>
+        <tr>
+            <td scope="row">Physics C: Mechanics</td>
+            <td>3</td>
+            <td>4</td>
+            <td>PHY2053/L</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>4</td>
+            <td>4</td>
+            <td>PHY2048/L</td>
+        </tr>
+        <tr>
+            <td scope="row">Psychology</td>
+            <td>3</td>
+            <td>3</td>
+            <td>PSY2012</td>
+        </tr>
+        <tr>
+            <td scope="row">Spanish Language</td>
+            <td>3</td>
+            <td>4</td>
+            <td>SPN1120C</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>4</td>
+            <td>8</td>
+            <td>SPN1120C &amp; SPN1121C</td>
+        </tr>
+        <tr>
+            <td scope="row">Spanish Literature and Culture</td>
+            <td>3</td>
+            <td>3</td>
+            <td>SPW1010</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>4</td>
+            <td>6</td>
+            <td>SPW1010 &amp; SPW1011</td>
+        </tr>
+        <tr>
+            <td scope="row">Statistics</td>
+            <td>3</td>
+            <td>3</td>
+            <td>STA2023</td>
+        </tr>
+        <tr>
+            <td scope="row">Studio Art: 2-D Design Portfolio</td>
+            <td>3</td>
+            <td>3</td>
+            <td>ART2201C</td>
+        </tr>
+        <tr>
+            <td scope="row">Studio Art: 3-D Design Portfolio</td>
+            <td>3</td>
+            <td>3</td>
+            <td>ART2203C</td>
+        </tr>
+        <tr>
+            <td scope="row">Studio Art: Drawing Portfolio</td>
+            <td>3</td>
+            <td>3</td>
+            <td>ART1300C</td>
+        </tr>
+        <tr>
+            <td scope="row">United States Government and Politics</td>
+            <td>3</td>
+            <td>3</td>
+            <td>POS2041</td>
+        </tr>
+        <tr>
+            <td scope="row">United States History</td>
+            <td>3</td>
+            <td>3</td>
+            <td>AMH1000</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>4</td>
+            <td>6</td>
+            <td>AMH2010 &amp; AMH2020</td>
+        </tr>
+        <tr>
+            <td scope="row">World History</td>
+            <td>3</td>
+            <td>3</td>
+            <td>WOH1022</td>
+        </tr>
+    </tbody>
+ </table>     
+<!-- END SHARED FTL  -->

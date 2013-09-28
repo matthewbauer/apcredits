@@ -1,0 +1,51 @@
+
+Art History;3;3;ARTH 300
+Biology;3;4;BIOL 310
+Biology;4;5;BIOL 310 or BIOL 400
+Calculus AB;3;3;MATH 341
+Calculus AB;4;4;MATH 350
+Calculus AB;5;5;MATH 400
+Calculus BC;3;3;MATH 350
+Calculus BC;4;3;"MATH 341 (3 units) OR
+MATH 350 (3 units) & 351 (3 units) OR
+MATH 400 (5 units) & 401 (5 units)"
+Chemistry;3;4;-
+Chinese Language and Culture;3;3;-
+Comparative Government and Politics;3;3;-
+Computer Science A;4;4;CISP 360
+Computer Science A;5;4;CISP 401
+Computer Science AB;3;4;CISP 360
+Computer Science AB;4;8;CISP 400 and 401
+English Language and Composition;3;3;-
+English Literature and Composition;3;3;ENGWR 300
+English Literature and Composition;4;6;ENGWR 300 & 301
+Environmental Science;3;3;BIOL 350
+European History;3;3;-
+French Language and Culture;3;3;-
+French Literature;3;3;-
+German Language and Culture;3;3;-
+Human Geography;3;3;GEOG 310
+Italian Language and Culture;3;3;-
+Japanese Language and Culture;3;3;-
+Latin;3;3;-
+Latin Literature;3;3;-
+Macroeconomics;3;3;ECON 302
+Microeconomics;3;3;ECON 304
+Music Theory;3;4;MUFHL 400
+Physics B;3;4;PHYS 310
+Physics B;5;8;PHYS 350 & 360 OR PHYS 370 & 380
+Physics C: Electricity and Magnetism;3;3;-
+Physics C: Electricity and Magnetism;5;4;PHYS 421
+Physics C: Mechanics;3;4;PHYS 310
+Physics C: Mechanics;5;4;PHYS 411
+Psychology;3;3;-
+Psychology;5;3;PSYC 300
+Spanish Language;3;8;SPAN 401 & 402
+Spanish Literature and Culture;3;3;-
+Statistics;3;4;STAT 300
+Studio Art: 2-D Design Portfolio;3;--;-
+Studio Art: 3-D Design Portfolio;3;--;-
+Studio Art: Drawing Portfolio;3;--;-
+United States Government and Politics;3;6;HIST 312 & 313
+United States History;3;6;HIST 312 & 313
+World History;3;3;-

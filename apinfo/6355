@@ -1,0 +1,42 @@
+
+Art History;3;3;FA 240 or 241
+Art History;4;6;FA 240,241
+Biology;3;3;BIOS 101 or 110
+Calculus AB;3;3;MATH 131 or 221
+Calculus AB;4;8;MATH 221,222
+Calculus BC;3;8;MATH 221,222
+Calculus BC;4;12;MATH 221,222,223
+Chemistry;3;3;CHEM 121
+Chemistry;4;6;CHEM 121,124
+Computer Science A;3;3;CSC 112
+Computer Science A;5;6;CSC 112,212
+Computer Science AB;4;6;CSC 112, 212
+English Language and Composition;3;6;ENGL 100,105
+English Literature and Composition;3;6;ENGL 100,105
+English Literature and Composition;4;9;ENGL 100,105,115
+European History;3;3;HIST 106
+French Language and Culture;3;3;FREN 101
+French Language and Culture;4;6;FREN 101,102
+French Language and Culture;5;9;FREN 101,102,201
+French Literature;3;3;FREN 101
+French Literature;4;6;FREN 101,102
+French Literature;5;9;FREN 101,102,201
+German Language and Culture;3;3;GERM 101
+German Language and Culture;4;6;GERM 101,102
+German Language and Culture;5;9;GERM 101,102,201
+Macroeconomics;3;3;ECON 201
+Microeconomics;3;3;ECON 202
+Music Theory;3;3;MUS 125
+Physics B;3;6;PHYS 251,252
+Physics C: Electricity and Magnetism;3;3;PHYS 262
+Physics C: Mechanics;3;3;PHYS 261
+Spanish Language;3;3;SPAN 101
+Spanish Language;4;6;SPAN 101,102
+Spanish Language;5;9;SPAN 101,102,201
+Spanish Literature and Culture;3;3;SPAN 101
+Spanish Literature and Culture;4;6;SPAN 101,102
+Spanish Literature and Culture;5;9;SPAN 101,102,201
+United States Government and Politics;3;3;POLI 151
+United States History;3;3;HIST 145 or 146
+United States History;4;6;HIST 145,146
+World History;4;6;HIST 105,106

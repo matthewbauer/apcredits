@@ -1,0 +1,50 @@
+
+Biology;3;4;Biology 210
+Biology;4;8;Biology 210,211
+Calculus AB;3;5;Math 242
+Calculus BC;3;10;Math 242,243
+Chemistry;3;5;Chemistry 211
+Chemistry;4;10;Chemistry 211, 212
+Comparative Government and Politics;3;3;Political Science 226
+Computer Science A;3;3;CS 210
+Computer Science A;4;6;CS 210,411
+Computer Science AB;3;3;CS 212
+Computer Science AB;4;7;CS 212,300
+English Language and Composition;3;3;English 101
+English Language and Composition;5;6;English 101,102
+English Literature and Composition;3;3;English 101
+English Literature and Composition;5;6;English 101,102
+Environmental Science;3;3;Biology 370
+European History;4;3;History 101 or 102
+European History;5;6;History 101,102
+French Language and Culture;3;3;French 220
+French Language and Culture;5;6;French 220,227
+French Literature;3;3;French 223
+French Literature;4;6;French 223,300
+German Language and Culture;3;3;German 223
+German Language and Culture;4;5;German 223,225
+German Language and Culture;5;7;German 223,225,324
+Latin;3;3;Latin 223
+Latin;5;6;Latin 223,224
+Latin Literature;3;3;Latin 223
+Latin Literature;5;6;Latin 223,224
+Macroeconomics;3;3;Economics 201
+Microeconomics;3;3;Economics 202
+Music Theory;3;2;MusC 127
+Music Theory;4;4;MusC 127,129
+Music Theory;5;6;MusC 127,129,130
+Physics B;4;8;Physics 213,214
+Physics C: Electricity and Magnetism;4;4;Physics 314
+Physics C: Mechanics;4;4;Physics 313
+Psychology;3;3;Psychology 111
+Spanish Language;3;3;Spanish 220
+Spanish Language;4;4;Spanish 220,225
+Spanish Language;5;5;Spanish 220,225
+Spanish Literature and Culture;3;3;Spanish 223
+Spanish Literature and Culture;4;6;Spanish 223,300
+Statistics;3;3;Statistics 370
+United States Government and Politics;3;3;Political Science 121
+United States History;4;3;History 131 or 132
+United States History;5;6;History 131,132
+World History;4;3;History 100 or 103
+World History;5;6;History 100,103

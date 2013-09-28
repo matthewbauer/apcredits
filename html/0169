@@ -1,0 +1,27 @@
+<h2 style="font-size: 22px;">The College of Saints John Fisher &amp; Thomas More</h2>
+<strong>Fort Worth, TX</strong>
+
+<div class="infolines">
+    <div class="row-fluid">
+        <div class="span10">Offers credit for AP Exams</div>
+        <div class="span2 alignRight">
+	     --
+        </div>
+    </div>    
+    <div class="row-fluid">
+        <div class="span10">Offers placement into higher-level courses for AP Exams</div>
+        <div class="span2 alignRight">
+	     --
+        </div>
+    </div>    
+</div>
+
+
+<p>
+    <strong>From the college:</strong>
+    <i>There is no credit given for any AP test.</i>
+    <br/>
+    For more information, <a href="http://www.fishermore.edu/application-information-and-requirements-status-full-time-part-time/" target="_blank" title="Opens a new window">view the credit policy on this college's website</a>.
+</p>
+
+<!-- END SHARED FTL  -->

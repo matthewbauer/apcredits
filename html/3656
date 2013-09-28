@@ -1,0 +1,27 @@
+<h2 style="font-size: 22px;">Asnuntuck Community College</h2>
+<strong>Enfield, CT</strong>
+
+<div class="infolines">
+    <div class="row-fluid">
+        <div class="span10">Offers credit for AP Exams</div>
+        <div class="span2 alignRight">
+	     --
+        </div>
+    </div>    
+    <div class="row-fluid">
+        <div class="span10">Offers placement into higher-level courses for AP Exams</div>
+        <div class="span2 alignRight">
+	     --
+        </div>
+    </div>    
+</div>
+
+
+<p>
+    <strong>From the college:</strong>
+    <i>Degree credit will be granted on the basis of scores on the Advanced Placement sxams. Students who earn scores of 3 or higher receive credit for the courses for which the examinations are stipulated as measures.</i>
+    <br/>
+    For more information, <a href="http://www.acc.commnet.edu/academicprograms/documents/Academicpolicies.pdf" target="_blank" title="Opens a new window">view the credit policy on this college's website</a>.
+</p>
+
+<!-- END SHARED FTL  -->

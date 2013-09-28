@@ -1,0 +1,83 @@
+
+Art History;3;3;ARH X000
+Art History;4;6;"ARH X050 and 
+ARH X051"
+Biology;3;4;"BSC X005C or 
+BSC X005/ X005L"
+Biology;4;4;"BSC X010C OR
+BSC X010/ X010L"
+Biology;5;8;"BSC X010C OR
+BSC X010/ X010L AND
+BSC X011C OR
+BSC X011/ X011L"
+Calculus AB;3;4;MAC X311
+Calculus BC;3;4;MAC X311
+Calculus BC;4;8;"MAC X311 AND
+MAC X312"
+Chemistry;3;4;"CHM X020C
+CHM X020/X20L"
+Chemistry;4;4;"CHM X045C OR 
+CHM X045/X045L OR 
+CHM X040/X045L"
+Chemistry;5;8;"CHM X045C OR 
+CHM X045/X045L AND 
+CHM X046 OR X046L"
+Chinese Language and Culture;3;3;One semester of intermediate level language 
+Chinese Language and Culture;4;6;Two semester of intermediate level language 
+Computer Science A;3;3;CGS X075
+Computer Science AB;3;3;CGS X076
+English Language and Composition;3;3;ENC X101
+English Language and Composition;4;6;"ENC X101 AND 
+ENC X102"
+English Literature and Composition;3;3;ENC X101 OR Course in AML, ENL, or LIT
+English Literature and Composition;4;6;"ENC X101 and either 
+ENC X102 or LIT X005"
+Environmental Science;3;3;ISC X051
+European History;3;3;EUH X009
+European History;4;6;"EUH X000 and
+EUH X001"
+French Language and Culture;3;3;One semester of intermediate level language
+French Language and Culture;4;6;Two semesters of intermediate level language
+French Literature;3;3;One semester introductory literature 
+French Literature;4;6;Two semester introductory literature 
+German Language and Culture;3;3;One semester of intermediate level language 
+German Language and Culture;4;6;Two semester of intermediate level language 
+Human Geography;3;3;"GEO X400 or 
+GEO X420"
+Italian Language and Culture;3;3;One semester of intermediate level language 
+Italian Language and Culture;4;6;Two semesters of intermediate level language 
+Japanese Language and Culture;3;3;One semester of intermediate level language
+Japanese Language and Culture;4;6;Two semesters of intermediate level language
+Latin;3;3;LNW X321
+Latin Literature;3;--;LNW X700
+Macroeconomics;3;3;ECO X013
+Microeconomics;3;3;ECI X023
+Music Theory;3;3;"MUT X001 if composite score is 3 or higher. MUT X111 and 
+MUT X241 if both aural and non-aural subscores are 3 or higher. "
+Physics B;3;4;"PHY X053C OR
+PHY X053/ PHY X053L"
+Physics B;4;8;"PHY X053C OR 
+PHY X053/PHY X053L AND
+PHY X054C OR PHY X054/PHY X054L"
+Physics C: Electricity and Magnetism;3;4;"PHY X054 OR
+PHY X054/PHY X054L"
+Physics C: Electricity and Magnetism;4;4;"PHY X049C OR
+PHY X049/PHY X049L"
+Physics C: Mechanics;3;4;"PHY X053C OR
+PHY X053/PHY X053L"
+Physics C: Mechanics;4;4;"PHY X048C OR 
+PHY X048/X048L"
+Psychology;3;3;PSY X012
+Spanish Language;3;3;One semester of intermediate level language 
+Spanish Language;4;6;Two semesters of intermediate level language 
+Spanish Literature and Culture;3;3;One semester introductory literature 
+Spanish Literature and Culture;4;6;Two semesters introductory literature
+Statistics;3;3;"STA X014 OR 
+STA X023"
+Studio Art: 2-D Design Portfolio;3;3;ART X201C
+Studio Art: 3-D Design Portfolio;3;3;ART X203C
+Studio Art: Drawing Portfolio;3;3;ART X300C
+United States History;3;3;ANH X000
+United States History;4;6;"AMH X010 AND
+AMH X020"
+World History;3;3;WOH X022

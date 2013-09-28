@@ -1,0 +1,26 @@
+<h2 style="font-size: 22px;">Villa Maria College of Buffalo</h2>
+<strong>Buffalo, NY</strong>
+
+<div class="infolines">
+    <div class="row-fluid">
+        <div class="span10">Offers credit for AP Exams</div>
+        <div class="span2 alignRight">
+	     --
+        </div>
+    </div>    
+    <div class="row-fluid">
+        <div class="span10">Offers placement into higher-level courses for AP Exams</div>
+        <div class="span2 alignRight">
+	     --
+        </div>
+    </div>    
+</div>
+
+
+<p>
+    <strong>From the college:</strong>
+    <i>Students must score 3, 4, or 5 on Advanced Placement course exams to receive credit.</i>
+    <br/>
+</p>
+
+<!-- END SHARED FTL  -->

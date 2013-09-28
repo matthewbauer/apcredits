@@ -1,0 +1,71 @@
+
+Art History;3;3;23ARTH 111
+Art History;4;9;23ARTH111, 112, 113
+Biology;3;6;15BIOL 104, 105
+Biology;4;15;15BIOL 101, 102, 103, 111, 112, 113
+Calculus AB;3;5;15MATH 251
+Calculus AB;4;8;15MATH 251, 227
+Calculus AB;5;10;15MATH 251, 252, 256
+Calculus BC;3;13;15MATH 251, 252, 256, 227
+Calculus BC: AB Subscore;3;--;-
+Chemistry;3;4;15CHEM 104, 114
+Chemistry;4;15;15CHEM 101, 103, 103, 111, 112, 113
+Chinese Language and Culture;3;15;15CHIN 101, 102, 103
+Comparative Government and Politics;3;3;15POL 160
+Computer Science A;3;3;20CS 112
+Computer Science A;4;4;20CS 121
+Computer Science A;5;7;20CS 121, 122
+Computer Science AB;3;4;20ECES 121
+Computer Science AB;4;7;20ECES 121, 122
+Computer Science AB;5;10;20ECES 121, 122, 228
+English Language and Composition;3;3;15ENGL 101
+English Language and Composition;5;6;15ENGL 101, 102
+English Literature and Composition;3;3;15ENGL 101
+English Literature and Composition;5;6;15ENGL 101, 102
+Environmental Science;3;3;15EVST 101
+Environmental Science;4;9;15EVST 101, 102, 103
+European History;3;6;15HIST 114, 115
+French Language and Culture;3;15;15Fren 101, 102, 103
+French Language and Culture;4;15;15Fren 114, 115, 116, 251, 252
+French Language and Culture;5;18;15Fren 114, 115, 116, 251, 252, 253
+French Literature;3;15;15Fren 101, 102, 103
+French Literature;4;15;15Fren 114, 115, 116, 251, 341
+French Literature;5;18;15Fren 114, 115, 116, 251, 252, 341
+German Language and Culture;3;15;15GRMN 101, 102, 103
+German Language and Culture;4;15;15GRMN 201, 202, 203
+Human Geography;3;3;34GEOG 171
+Human Geography;4;3;15GEOG 105
+Human Geography;5;6;15GEOG 105, 106
+Italian Language and Culture;3;15;15ITAL 101, 102, 103
+Italian Language and Culture;4;15;15ITAL 115, 116, 251, 252, 253
+Japanese Language and Culture;3;15;15JPN 101, 102, 103
+Latin;3;9;15LATN 101, 102, 103
+Latin;4;18;15LATN 104, 105, 106, 114
+Latin Literature;3;9;15LATN 101, 102, 103
+Latin Literature;4;18;15LATN 104, 105, 106, 116
+Macroeconomics;3;3;15ECON 102
+Microeconomics;3;3;15ECON 101
+Music Theory;3;6;Fam 1**
+Physics B;3;15;15PHYS 101, 102, 103, 111, 112, 113
+Physics C: Electricity and Magnetism;3;5;15PHYS 202, 212
+Physics C: Mechanics;3;5;15PHYS 201, 211
+Psychology;3;6;15PSYC 101, 102,
+Psychology;4;9;15PSYC 101, 102, 103
+Spanish Language;3;15;15SPAN 101, 102, 103
+Spanish Language;4;15;SPAN 251, 252, 114, 115, 116
+Spanish Language;5;18;SPAN 251, 252, 253, 114, 115, 116
+Spanish Literature and Culture;3;15;15SPAN 101, 102, 103
+Spanish Literature and Culture;4;15;15SPAN 114, 115, 116, 252, 372
+Spanish Literature and Culture;5;18;15SPAN 114, 115, 116, 251, 252, 253, 372
+Statistics;3;3;15STAT 147
+Statistics;4;6;15STAT 147, 148
+Statistics;5;9;15STAT 147, 148, 149
+Studio Art: 2-D Design Portfolio;3;3;FAA 1XX
+Studio Art: 2-D Design Portfolio;4;3;FDST 1XX
+Studio Art: 3-D Design Portfolio;3;3;FAA 1XX
+Studio Art: 3-D Design Portfolio;4;4;FAA 2XX
+Studio Art: Drawing Portfolio;3;3;FAA 1XX
+Studio Art: Drawing Portfolio;4;4;FAA 2XX
+United States Government and Politics;3;6;15POL 110, 111
+United States History;3;9;15HIST 110, 111, 112
+World History;3;9;15HIST 130, 131, 132

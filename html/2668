@@ -1,0 +1,188 @@
+<h2 style="font-size: 22px;">Polytechnic Institute of New York University</h2>
+<strong>Brooklyn, NY</strong>
+
+<div class="infolines">
+    <div class="row-fluid">
+        <div class="span10">Offers credit for AP Exams</div>
+        <div class="span2 alignRight">
+                <div class="short-status-green">Yes</div>
+        </div>
+    </div>    
+    <div class="row-fluid">
+        <div class="span10">Offers placement into higher-level courses for AP Exams</div>
+        <div class="span2 alignRight">
+                <div class="short-status-green">Yes</div>
+        </div>
+    </div>    
+</div>
+
+
+<p>
+    <strong>From the college:</strong>
+    <i>Polytechnic will grant students credit for appropriate Advanced Placement courses taken in high school, given acceptable performance on AP Examinations. Students must request evaluation of AP credits by no later than the end of their first semester of matriculation. Credit may also be granted for college preview courses taken at Polytechnic or other universities while a high-school student, if these courses are relevant to the student's degree program and acceptable grades have been achieved.  Grades for advanced placement or college preview courses are not included in the computation of the cumulative or current semester GPAs.</i>
+    <br/>
+    For more information, <a href="http://www.poly.edu/admissions/AP-credit" target="_blank" title="Opens a new window">view the credit policy on this college's website</a>.
+</p>
+
+ <p class="box-padding-3">
+    Additional restrictions and requirements may apply to the policy listed below. For more detailed information, visit the college's AP policy on the Web or contact the college directly.
+ </p>
+
+ <table id="creditPolicyTable" class="table table-striped table-condensed datatable top-bold-border bottom-border" summary="This table of Credit Policy gives credit information (column headings) for list of exams (row headings).">
+    <caption class="visuallyhidden">Polytechnic Institute of New York University Credit Policy</caption>
+    <thead>
+        <tr>
+            <th scope="col" class="">Exam<br/>Title</th>
+            <th scope="col">Min. Score<br/>Required</th>
+            <th scope="col">Number<br/>of Credits</th>
+            <th scope="col">Equivalent<br/>Course</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td scope="row">Art History</td>
+            <td>4</td>
+            <td>3</td>
+            <td>AH 2113</td>
+        </tr>
+        <tr>
+            <td scope="row">Biology</td>
+            <td>4</td>
+            <td>4</td>
+            <td>BMS 1004</td>
+        </tr>
+        <tr>
+            <td scope="row">Calculus AB</td>
+            <td>4</td>
+            <td>4</td>
+            <td>Calculus I</td>
+        </tr>
+        <tr>
+            <td scope="row">Calculus BC</td>
+            <td>4</td>
+            <td>8</td>
+            <td>Calculus I Calculus II</td>
+        </tr>
+        <tr>
+            <td scope="row">Chemistry</td>
+            <td>4</td>
+            <td>8</td>
+            <td>CM 1014 and CM 1024</td>
+        </tr>
+        <tr>
+            <td scope="row">Comparative Government and Politics</td>
+            <td>4</td>
+            <td>3</td>
+            <td>SEG 2003</td>
+        </tr>
+        <tr>
+            <td scope="row">Computer Science A</td>
+            <td>4</td>
+            <td>4</td>
+            <td>CS 1114</td>
+        </tr>
+        <tr>
+            <td scope="row">Computer Science AB</td>
+            <td>4</td>
+            <td>4</td>
+            <td>CS 1114</td>
+        </tr>
+        <tr>
+            <td scope="row">English Language and Composition</td>
+            <td>4</td>
+            <td>3</td>
+            <td>CAM 2003</td>
+        </tr>
+        <tr>
+            <td scope="row">English Literature and Composition</td>
+            <td>4</td>
+            <td>3</td>
+            <td>CAM 2003</td>
+        </tr>
+        <tr>
+            <td scope="row">European History</td>
+            <td>4</td>
+            <td>3</td>
+            <td>HI 2103W</td>
+        </tr>
+        <tr>
+            <td scope="row">French Literature</td>
+            <td>4</td>
+            <td>3</td>
+            <td>CAM 2003</td>
+        </tr>
+        <tr>
+            <td scope="row">Latin</td>
+            <td>4</td>
+            <td>--</td>
+            <td>CAM 2003</td>
+        </tr>
+        <tr>
+            <td scope="row">Latin Literature</td>
+            <td>4</td>
+            <td>--</td>
+            <td>CAM 2003</td>
+        </tr>
+        <tr>
+            <td scope="row">Macroeconomics</td>
+            <td>4</td>
+            <td>3</td>
+            <td>SEG 2003</td>
+        </tr>
+        <tr>
+            <td scope="row">Microeconomics</td>
+            <td>4</td>
+            <td>3</td>
+            <td>SEG 2003</td>
+        </tr>
+        <tr>
+            <td scope="row">Music Theory</td>
+            <td>4</td>
+            <td>3</td>
+            <td>MU 2113</td>
+        </tr>
+        <tr>
+            <td scope="row">Physics C: Electricity and Magnetism</td>
+            <td>4</td>
+            <td>3</td>
+            <td>PH 2023</td>
+        </tr>
+        <tr>
+            <td scope="row">Physics C: Mechanics</td>
+            <td>4</td>
+            <td>3</td>
+            <td>PH 1013</td>
+        </tr>
+        <tr>
+            <td scope="row">Psychology</td>
+            <td>4</td>
+            <td>3</td>
+            <td>PS LV2XF</td>
+        </tr>
+        <tr>
+            <td scope="row">Spanish Literature and Culture</td>
+            <td>4</td>
+            <td>--</td>
+            <td>CAM 2003</td>
+        </tr>
+        <tr>
+            <td scope="row">United States Government and Politics</td>
+            <td>4</td>
+            <td>3</td>
+            <td>SEG 2003</td>
+        </tr>
+        <tr>
+            <td scope="row">United States History</td>
+            <td>4</td>
+            <td>3</td>
+            <td>HI LV2XF</td>
+        </tr>
+        <tr>
+            <td scope="row">World History</td>
+            <td>4</td>
+            <td>3</td>
+            <td>HI 2103W</td>
+        </tr>
+    </tbody>
+ </table>     
+<!-- END SHARED FTL  -->

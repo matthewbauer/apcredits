@@ -1,0 +1,26 @@
+<h2 style="font-size: 22px;">Georgia Piedmont Technical College</h2>
+<strong>Clarkston, GA</strong>
+
+<div class="infolines">
+    <div class="row-fluid">
+        <div class="span10">Offers credit for AP Exams</div>
+        <div class="span2 alignRight">
+                <div class="short-status-green">Yes</div>
+        </div>
+    </div>    
+    <div class="row-fluid">
+        <div class="span10">Offers placement into higher-level courses for AP Exams</div>
+        <div class="span2 alignRight">
+                <div class="short-status-green">Yes</div>
+        </div>
+    </div>    
+</div>
+
+
+<p>
+    <strong>From the college:</strong>
+    <i>Students may earn 5 quarter hours of credit for each AP exam on which he/she achieves a score of 3 or higher.</i>
+    <br/>
+</p>
+
+<!-- END SHARED FTL  -->

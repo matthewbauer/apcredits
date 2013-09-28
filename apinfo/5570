@@ -1,0 +1,54 @@
+
+Art History;3;3;ARH 103
+Art History;4;6;ARTH 103, 104
+Biology;3;4;BIOL 101, BIOZ 101
+Biology;4;4;BIOL 152, BIOZ 152
+Biology;5;8;BIOL 151, 152, BIOZ 151, 152
+Calculus AB;3;4;MATH 200
+Calculus BC;3;4;MATH 200
+Calculus BC;5;8;MATH 200, 201
+Chemistry;3;4;CHEM 101, CHEZ 101L
+Chemistry;5;8;CHEM 101, 102, CHEZ 101L, 102L
+Comparative Government and Politics;3;3;POLI 109
+Computer Science A;4;4;CMSC 255
+Computer Science AB;3;4;CMSC 255
+Computer Science AB;4;7;CMSC 255, 256
+English Language and Composition;3;3;UNIV 111
+English Literature and Composition;3;3;UNIV 111
+Environmental Science;3;4;BIOL 103
+Environmental Science;5;5;BIOL 103
+European History;3;6;HISt 101, 102
+French Language and Culture;3;3;FREN 202
+French Language and Culture;4;3;FREN 300
+French Language and Culture;5;6;FREN 300, 301
+French Literature;3;3;FREN 202
+French Literature;4;3;FREN 330
+French Literature;5;6;FREN 330, 331
+German Language and Culture;3;3;GRMN 202
+German Language and Culture;4;3;GRMN 300
+German Language and Culture;5;6;GRMN 300, 301
+Human Geography;3;3;GEOG 102
+Latin;3;3;LATN 202
+Latin Literature;3;3;LATN 201
+Macroeconomics;4;3;ECON 211
+Microeconomics;4;3;ECON 210
+Music Theory;3;3;MHIS 110
+Physics B;3;4;PHYS 201
+Physics B;5;8;PHYS 201, 202, 
+Physics C: Electricity and Magnetism;4;5;PHYS 208
+Physics C: Mechanics;3;5;PHYS 207
+Psychology;3;4;PSYC 101
+Spanish Language;3;3;SPAN 202
+Spanish Language;4;3;SPAN 300
+Spanish Language;5;6;SPAN 300, 301
+Spanish Literature and Culture;3;3;SPAN 202
+Spanish Literature and Culture;4;3;SPAN 330
+Spanish Literature and Culture;5;6;SPAN 330, 331
+Statistics;3;3;STAT 210 
+Statistics;5;--;STAT 212
+Studio Art: 2-D Design Portfolio;4;1;ARTF 139
+Studio Art: 3-D Design Portfolio;4;1;ARTF 139
+Studio Art: Drawing Portfolio;4;1;ARTF 139
+United States Government and Politics;3;3;POLI 103
+United States History;3;6;HISt 103, 104
+World History;3;6;HIST XXX

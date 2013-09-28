@@ -1,0 +1,374 @@
+<h2 style="font-size: 22px;">University of Colorado Boulder</h2>
+<strong>Boulder, CO</strong>
+
+<div class="infolines">
+    <div class="row-fluid">
+        <div class="span10">Offers credit for AP Exams</div>
+        <div class="span2 alignRight">
+                <div class="short-status-green">Yes</div>
+        </div>
+    </div>    
+    <div class="row-fluid">
+        <div class="span10">Offers placement into higher-level courses for AP Exams</div>
+        <div class="span2 alignRight">
+                <div class="short-status-green">Yes</div>
+        </div>
+    </div>    
+</div>
+
+
+<p>
+    <strong>From the college:</strong>
+    <i>Official scores must be sent to the admissions office directly from the College Board.</i>
+    <br/>
+    For more information, <a href="http://www.colorado.edu/catalog/2013-14/content/advanced-placement-ap-credit" target="_blank" title="Opens a new window">view the credit policy on this college's website</a>.
+</p>
+
+ <p class="box-padding-3">
+    Additional restrictions and requirements may apply to the policy listed below. For more detailed information, visit the college's AP policy on the Web or contact the college directly.
+ </p>
+
+ <table id="creditPolicyTable" class="table table-striped table-condensed datatable top-bold-border bottom-border" summary="This table of Credit Policy gives credit information (column headings) for list of exams (row headings).">
+    <caption class="visuallyhidden">University of Colorado Boulder Credit Policy</caption>
+    <thead>
+        <tr>
+            <th scope="col" class="">Exam<br/>Title</th>
+            <th scope="col">Min. Score<br/>Required</th>
+            <th scope="col">Number<br/>of Credits</th>
+            <th scope="col">Equivalent<br/>Course</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td scope="row">Art History</td>
+            <td>4</td>
+            <td>6</td>
+            <td>ARTH 1300,1400</td>
+        </tr>
+        <tr>
+            <td scope="row">Biology</td>
+            <td>4</td>
+            <td>8</td>
+            <td>EBIO 1210,1220,1230,1240</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>4</td>
+            <td>8</td>
+            <td>EBIO 1210,1220,1230,1240</td>
+        </tr>
+        <tr>
+            <td scope="row">Calculus AB</td>
+            <td>4</td>
+            <td>5</td>
+            <td>MATH 1300</td>
+        </tr>
+        <tr>
+            <td scope="row">Calculus BC</td>
+            <td>3</td>
+            <td>5</td>
+            <td>MATH 1300</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>4</td>
+            <td>10</td>
+            <td>MATH 1300,2300</td>
+        </tr>
+        <tr>
+            <td scope="row">Calculus BC: AB Subscore</td>
+            <td>4</td>
+            <td>--</td>
+            <td>MATH 1300</td>
+        </tr>
+        <tr>
+            <td scope="row">Chemistry</td>
+            <td>4</td>
+            <td>5</td>
+            <td>CHEM 1113, 1114</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>5</td>
+            <td>10</td>
+            <td>CHEM 1113, 1114, 1133, 1134</td>
+        </tr>
+        <tr>
+            <td scope="row">Chinese Language and Culture</td>
+            <td>3</td>
+            <td>5</td>
+            <td>CHIN 1020</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>4</td>
+            <td>10</td>
+            <td>CHIN 1020,2110</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>5</td>
+            <td>15</td>
+            <td>CHIN 1020,2110,2120</td>
+        </tr>
+        <tr>
+            <td scope="row">Comparative Government and Politics</td>
+            <td>4</td>
+            <td>3</td>
+            <td>PSCI 2012</td>
+        </tr>
+        <tr>
+            <td scope="row">Computer Science A</td>
+            <td>5</td>
+            <td>4</td>
+            <td>CSCI 1300</td>
+        </tr>
+        <tr>
+            <td scope="row">English Language and Composition</td>
+            <td>4</td>
+            <td>3</td>
+            <td>WRTG 1150</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>5</td>
+            <td>3</td>
+            <td>WRTG 1250</td>
+        </tr>
+        <tr>
+            <td scope="row">English Literature and Composition</td>
+            <td>4</td>
+            <td>3</td>
+            <td>ENGL 1500</td>
+        </tr>
+        <tr>
+            <td scope="row">Environmental Science</td>
+            <td>4</td>
+            <td>4</td>
+            <td>ENVS 1000</td>
+        </tr>
+        <tr>
+            <td scope="row">European History</td>
+            <td>4</td>
+            <td>3</td>
+            <td>HIST 1020</td>
+        </tr>
+        <tr>
+            <td scope="row">French Language and Culture</td>
+            <td>3</td>
+            <td>3</td>
+            <td>FREN 2110</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>4</td>
+            <td>6</td>
+            <td>FREN 2110,2120</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>5</td>
+            <td>9</td>
+            <td>FREN 2110,2120,3050</td>
+        </tr>
+        <tr>
+            <td scope="row">French Literature</td>
+            <td>3</td>
+            <td>3</td>
+            <td>FREN 3120</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>4</td>
+            <td>6</td>
+            <td>FREN 3110,3120</td>
+        </tr>
+        <tr>
+            <td scope="row">German Language and Culture</td>
+            <td>3</td>
+            <td>4</td>
+            <td>GRMN 2010</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>4</td>
+            <td>8</td>
+            <td>GRMN 2010,2020</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>5</td>
+            <td>7</td>
+            <td>GRMN 2020,3010</td>
+        </tr>
+        <tr>
+            <td scope="row">Human Geography</td>
+            <td>3</td>
+            <td>3</td>
+            <td>GEOG 1992</td>
+        </tr>
+        <tr>
+            <td scope="row">Italian Language and Culture</td>
+            <td>3</td>
+            <td>5</td>
+            <td>ITAL 1020</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>4</td>
+            <td>8</td>
+            <td>ITAL 1020,2110</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>5</td>
+            <td>11</td>
+            <td>ITAL 1020,2110,2120</td>
+        </tr>
+        <tr>
+            <td scope="row">Japanese Language and Culture</td>
+            <td>3</td>
+            <td>5</td>
+            <td>JPNS 1020</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>4</td>
+            <td>10</td>
+            <td>JPNS 1020,2110</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>5</td>
+            <td>15</td>
+            <td>JPNS 1020,2110,2120</td>
+        </tr>
+        <tr>
+            <td scope="row">Latin</td>
+            <td>3</td>
+            <td>4</td>
+            <td>CLAS 1024</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>4</td>
+            <td>8</td>
+            <td>CLAS 1024, 2114</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>5</td>
+            <td>12</td>
+            <td>CLAS 1024,2114,2124</td>
+        </tr>
+        <tr>
+            <td scope="row">Macroeconomics</td>
+            <td>4</td>
+            <td>4</td>
+            <td>ECON 2020</td>
+        </tr>
+        <tr>
+            <td scope="row">Microeconomics</td>
+            <td>4</td>
+            <td>4</td>
+            <td>ECON 2010</td>
+        </tr>
+        <tr>
+            <td scope="row">Music Theory</td>
+            <td>4</td>
+            <td>3</td>
+            <td>MUSC 1101,1121</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>5</td>
+            <td>6</td>
+            <td>MUSC 1101,1111,1121,1131</td>
+        </tr>
+        <tr>
+            <td scope="row">Physics B</td>
+            <td>4</td>
+            <td>10</td>
+            <td>PHYS 2010,2020</td>
+        </tr>
+        <tr>
+            <td scope="row">Physics C: Electricity and Magnetism</td>
+            <td>4</td>
+            <td>4</td>
+            <td>PHYS 1120</td>
+        </tr>
+        <tr>
+            <td scope="row">Physics C: Mechanics</td>
+            <td>4</td>
+            <td>4</td>
+            <td>PHYS 1110</td>
+        </tr>
+        <tr>
+            <td scope="row">Psychology</td>
+            <td>4</td>
+            <td>3</td>
+            <td>PSYC 1001</td>
+        </tr>
+        <tr>
+            <td scope="row">Spanish Language</td>
+            <td>3</td>
+            <td>3</td>
+            <td>SPAN 2110</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>4</td>
+            <td>6</td>
+            <td>SPAN 2110,2120</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>5</td>
+            <td>11</td>
+            <td>SPAN 2110,2120,3000</td>
+        </tr>
+        <tr>
+            <td scope="row">Spanish Literature and Culture</td>
+            <td>4</td>
+            <td>3</td>
+            <td>SPAN 1000</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>5</td>
+            <td>6</td>
+            <td>SPAN 1000,3200</td>
+        </tr>
+        <tr>
+            <td scope="row">Statistics</td>
+            <td>4</td>
+            <td>3</td>
+            <td>MATH 2510</td>
+        </tr>
+        <tr>
+            <td scope="row">Studio Art: Drawing Portfolio</td>
+            <td>4</td>
+            <td>3</td>
+            <td>ARTS 1012</td>
+        </tr>
+        <tr>
+            <td scope="row">United States Government and Politics</td>
+            <td>4</td>
+            <td>3</td>
+            <td>PSCI 1101</td>
+        </tr>
+        <tr>
+            <td scope="row">United States History</td>
+            <td>4</td>
+            <td>3</td>
+            <td>HIST 1025</td>
+        </tr>
+        <tr>
+            <td scope="row">World History</td>
+            <td>4</td>
+            <td>3</td>
+            <td>Determined by Department</td>
+        </tr>
+    </tbody>
+ </table>     
+<!-- END SHARED FTL  -->

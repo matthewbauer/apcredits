@@ -1,0 +1,7 @@
+#!/bin/sh
+
+cat codes | while read line; do
+	code=$(echo $line | cut -f1 -d' ')
+	name=$(echo $line | cut -f2 -d' ')
+	[[ ! -x html/$code ]] && wget https://apscore.collegeboard.org/creditandplacement/credit-policy-ajax?diCode=$code -Ohtml/$code
+done

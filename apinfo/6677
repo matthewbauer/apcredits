@@ -1,0 +1,46 @@
+
+Art History;3;3;08:160
+Art History;4;6;08:160,260
+Art History;5;9;08:160,260,261
+Biology;3;4;11:100
+Biology;4;8;11:100,105
+Calculus AB;3;4;54:121
+Calculus BC;3;4;54:121
+Calculus BC;5;8;54:121,122
+Chemistry;3;4;12:Chem 100
+Chemistry;4;5;12:Chem 201
+Chemistry;5;10;12:Chem 201,202
+Comparative Government and Politics;3;3;68:100
+Comparative Government and Politics;4;6;68:100,241
+Computer Science A;3;4;CS 110
+Computer Science AB;3;4;20:COMS 211
+Computer Science AB;4;8;CS 110 and 111
+English Language and Composition;3;4;24:110
+English Language and Composition;4;8;24:110,101
+English Literature and Composition;3;4;24:110
+English Literature and Composition;4;8;24:110,101
+Environmental Science;3;4;11:ENVR 101
+European History;3;4;40:180
+European History;4;8;40:180,181
+French Language and Culture;3;10;32:101,102
+German Language and Culture;3;8;32:101,102
+Human Geography;3;3;Geog 103
+Macroeconomics;3;3;77:201
+Microeconomics;3;3;77:202
+Music Theory;3;2;Mus 131
+Physics B;3;3;66:101
+Physics B;4;8;66:211,212
+Physics C: Electricity and Magnetism;3;5;66:222
+Physics C: Mechanics;3;5;66:221
+Psychology;3;4;73:101
+Spanish Language;3;8;82:101,102
+Statistics;3;3;86:154
+Studio Art: 2-D Design Portfolio;3;3;Art 100
+Studio Art: 3-D Design Portfolio;3;3;Art 103
+Studio Art: Drawing Portfolio;3;3;Art 110
+United States Government and Politics;3;3;68:100
+United States Government and Politics;4;6;68:100,111
+United States History;3;4;40:190
+United States History;4;8;40:190,191
+World History;3;4;40:170
+World History;4;8;40:170,171

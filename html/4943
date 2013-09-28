@@ -1,0 +1,27 @@
+<h2 style="font-size: 22px;">Contra Costa College</h2>
+<strong>San Pablo, CA</strong>
+
+<div class="infolines">
+    <div class="row-fluid">
+        <div class="span10">Offers credit for AP Exams</div>
+        <div class="span2 alignRight">
+                <div class="short-status-green">Yes</div>
+        </div>
+    </div>    
+    <div class="row-fluid">
+        <div class="span10">Offers placement into higher-level courses for AP Exams</div>
+        <div class="span2 alignRight">
+	     --
+        </div>
+    </div>    
+</div>
+
+
+<p>
+    <strong>From the college:</strong>
+    <i>Contra Costa College currently grants credit toward undergraduate degrees for successful completion of examinations of the Advanced Placement (AP) Program of the College Board in the areas of Mathematics, English, Spanish, and French.</i>
+    <br/>
+    For more information, <a href="http://www.contracosta.edu/studentservices/admiss/Shared%20Documents/ADVANCED%20PLACEMENT%20(AP)%20CREDIT.aspx" target="_blank" title="Opens a new window">view the credit policy on this college's website</a>.
+</p>
+
+<!-- END SHARED FTL  -->

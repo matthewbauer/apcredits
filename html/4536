@@ -1,0 +1,27 @@
+<h2 style="font-size: 22px;">Sheridan College</h2>
+<strong>Sheridan, WY</strong>
+
+<div class="infolines">
+    <div class="row-fluid">
+        <div class="span10">Offers credit for AP Exams</div>
+        <div class="span2 alignRight">
+                <div class="short-status-green">Yes</div>
+        </div>
+    </div>    
+    <div class="row-fluid">
+        <div class="span10">Offers placement into higher-level courses for AP Exams</div>
+        <div class="span2 alignRight">
+                <div class="short-status-green">Yes</div>
+        </div>
+    </div>    
+</div>
+
+
+<p>
+    <strong>From the college:</strong>
+    <i>Northern Wyoming Community College District will award credit to students who demonstrate proficiency in the College Board Advanced Placement Examination. Students with a score of 3, 4 or 5 will receive credit and a grade of 'S.'</i>
+    <br/>
+    For more information, <a href="http://www.sheridan.edu/site/assetlibrary/nwccd/offices/president/6000.nwc.pdf" target="_blank" title="Opens a new window">view the credit policy on this college's website</a>.
+</p>
+
+<!-- END SHARED FTL  -->

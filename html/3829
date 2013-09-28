@@ -1,0 +1,27 @@
+<h2 style="font-size: 22px;">Capella University</h2>
+<strong>Minneapolis, MN</strong>
+
+<div class="infolines">
+    <div class="row-fluid">
+        <div class="span10">Offers credit for AP Exams</div>
+        <div class="span2 alignRight">
+	     --
+        </div>
+    </div>    
+    <div class="row-fluid">
+        <div class="span10">Offers placement into higher-level courses for AP Exams</div>
+        <div class="span2 alignRight">
+	     --
+        </div>
+    </div>    
+</div>
+
+
+<p>
+    <strong>From the college:</strong>
+    <i>Scores of 3 or above on AP exam are awarded 6 quarter credits</i>
+    <br/>
+    For more information, <a href="http://www.capella.edu/inc/pdf/catalogs/catalog.pdf?linkID=22991&amp;Refr=http://www.capella.edu/schools_programs/schools_programs_index.aspx" target="_blank" title="Opens a new window">view the credit policy on this college's website</a>.
+</p>
+
+<!-- END SHARED FTL  -->

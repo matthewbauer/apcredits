@@ -1,0 +1,28 @@
+<h2 style="font-size: 22px;">Crafton Hills College</h2>
+<strong>Yucaipa, CA</strong>
+
+<div class="infolines">
+    <div class="row-fluid">
+        <div class="span10">Offers credit for AP Exams</div>
+        <div class="span2 alignRight">
+                <div class="short-status-green">Yes</div>
+        </div>
+    </div>    
+    <div class="row-fluid">
+        <div class="span10">Offers placement into higher-level courses for AP Exams</div>
+        <div class="span2 alignRight">
+                <div class="short-status-green">Yes</div>
+        </div>
+    </div>    
+</div>
+
+
+<p>
+    <strong>From the college:</strong>
+    <i>Crafton Hills College is a participant in the Advanced Placement Program of the College Entrance Examination Board. Advanced Placement credit will be granted by Crafton Hills College according
+to the policy as listed in the college catalog.</i>
+    <br/>
+    For more information, <a href="http://www.craftonhills.edu/Courses_and_Programs/College_Catalog.aspx" target="_blank" title="Opens a new window">view the credit policy on this college's website</a>.
+</p>
+
+<!-- END SHARED FTL  -->

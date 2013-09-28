@@ -1,0 +1,26 @@
+<h2 style="font-size: 22px;">Ottawa University</h2>
+<strong>Ottawa, KS</strong>
+
+<div class="infolines">
+    <div class="row-fluid">
+        <div class="span10">Offers credit for AP Exams</div>
+        <div class="span2 alignRight">
+	     --
+        </div>
+    </div>    
+    <div class="row-fluid">
+        <div class="span10">Offers placement into higher-level courses for AP Exams</div>
+        <div class="span2 alignRight">
+	     --
+        </div>
+    </div>    
+</div>
+
+
+<p>
+    <strong>From the college:</strong>
+    <i>Credit awarded for scores of 3, 4, and 5. Credit is based on ACE recommendations and transcripted with a grade of Pass.</i>
+    <br/>
+</p>
+
+<!-- END SHARED FTL  -->

@@ -1,0 +1,27 @@
+<h2 style="font-size: 22px;">St. John's University</h2>
+<strong>Queens, NY</strong>
+
+<div class="infolines">
+    <div class="row-fluid">
+        <div class="span10">Offers credit for AP Exams</div>
+        <div class="span2 alignRight">
+	     --
+        </div>
+    </div>    
+    <div class="row-fluid">
+        <div class="span10">Offers placement into higher-level courses for AP Exams</div>
+        <div class="span2 alignRight">
+	     --
+        </div>
+    </div>    
+</div>
+
+
+<p>
+    <strong>From the college:</strong>
+    <i>St. John's University may award advanced placement and college credit to those entering freshmen who earn a requisite score on the College Entrance Examination Board's Advanced Placement and/or CLEP Exams.  Placement, as well as the number of college credits appropriate to the academic development of the qualified student, is determined by the dean's office.</i>
+    <br/>
+    For more information, <a href="http://www.stjohns.edu/academics/centers/dass/ufc/prospective/ap.stj" target="_blank" title="Opens a new window">view the credit policy on this college's website</a>.
+</p>
+
+<!-- END SHARED FTL  -->

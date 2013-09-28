@@ -1,0 +1,27 @@
+<h2 style="font-size: 22px;">University of Montevallo</h2>
+<strong>Montevallo, AL</strong>
+
+<div class="infolines">
+    <div class="row-fluid">
+        <div class="span10">Offers credit for AP Exams</div>
+        <div class="span2 alignRight">
+                <div class="short-status-red">No</div>
+        </div>
+    </div>    
+    <div class="row-fluid">
+        <div class="span10">Offers placement into higher-level courses for AP Exams</div>
+        <div class="span2 alignRight">
+                <div class="short-status-red">No</div>
+        </div>
+    </div>    
+</div>
+
+
+<p>
+    <strong>From the college:</strong>
+    <i>AP inquiries are welcomed and credit for subject examinations is generally awarded for scores of 3 and above. Scores of 4 and above are required to receive credit in History and English.</i>
+    <br/>
+    For more information, <a href="http://www.montevallo.edu/registrar/AlternativeCredit.shtm" target="_blank" title="Opens a new window">view the credit policy on this college's website</a>.
+</p>
+
+<!-- END SHARED FTL  -->

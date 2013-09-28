@@ -1,0 +1,406 @@
+<h2 style="font-size: 22px;">Valencia College</h2>
+<strong>Orlando, FL</strong>
+
+<div class="infolines">
+    <div class="row-fluid">
+        <div class="span10">Offers credit for AP Exams</div>
+        <div class="span2 alignRight">
+                <div class="short-status-green">Yes</div>
+        </div>
+    </div>    
+    <div class="row-fluid">
+        <div class="span10">Offers placement into higher-level courses for AP Exams</div>
+        <div class="span2 alignRight">
+                <div class="short-status-green">Yes</div>
+        </div>
+    </div>    
+</div>
+
+
+<p>
+    <strong>From the college:</strong>
+    <i>Possible to earn college credits prior to enrollment at Valencia College under a Florida statewide Advanced Placement Program agreement. To receive college credits, you must present a valid score of 5, 4, or 3 on the examination administered by the College Entrance Examination Board. No letter grades or quality points will be assigned. Advanced Placement credit granted by Valencia is transferable among Florida institutions of higher education participating in the statewide advanced placement agreement.</i>
+    <br/>
+    For more information, <a href="http://valenciacollege.edu/catalog/" target="_blank" title="Opens a new window">view the credit policy on this college's website</a>.
+</p>
+
+ <p class="box-padding-3">
+    Additional restrictions and requirements may apply to the policy listed below. For more detailed information, visit the college's AP policy on the Web or contact the college directly.
+ </p>
+
+ <table id="creditPolicyTable" class="table table-striped table-condensed datatable top-bold-border bottom-border" summary="This table of Credit Policy gives credit information (column headings) for list of exams (row headings).">
+    <caption class="visuallyhidden">Valencia College Credit Policy</caption>
+    <thead>
+        <tr>
+            <th scope="col" class="">Exam<br/>Title</th>
+            <th scope="col">Min. Score<br/>Required</th>
+            <th scope="col">Number<br/>of Credits</th>
+            <th scope="col">Equivalent<br/>Course</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td scope="row">Art History</td>
+            <td>3</td>
+            <td>3</td>
+            <td>ARH X000</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>4</td>
+            <td>6</td>
+            <td>ARH X050 and 
+ARH X051</td>
+        </tr>
+        <tr>
+            <td scope="row">Biology</td>
+            <td>3</td>
+            <td>4</td>
+            <td>BSC X005C or 
+BSC X005/ X005L</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>4</td>
+            <td>4</td>
+            <td>BSC X010C OR
+BSC X010/ X010L</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>5</td>
+            <td>8</td>
+            <td>BSC X010C OR
+BSC X010/ X010L AND
+BSC X011C OR
+BSC X011/ X011L</td>
+        </tr>
+        <tr>
+            <td scope="row">Calculus AB</td>
+            <td>3</td>
+            <td>4</td>
+            <td>MAC X311</td>
+        </tr>
+        <tr>
+            <td scope="row">Calculus BC</td>
+            <td>3</td>
+            <td>4</td>
+            <td>MAC X311</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>4</td>
+            <td>8</td>
+            <td>MAC X311 AND
+MAC X312</td>
+        </tr>
+        <tr>
+            <td scope="row">Chemistry</td>
+            <td>3</td>
+            <td>4</td>
+            <td>CHM X020C
+CHM X020/X20L</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>4</td>
+            <td>4</td>
+            <td>CHM X045C OR 
+CHM X045/X045L OR 
+CHM X040/X045L</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>5</td>
+            <td>8</td>
+            <td>CHM X045C OR 
+CHM X045/X045L AND 
+CHM X046 OR X046L</td>
+        </tr>
+        <tr>
+            <td scope="row">Chinese Language and Culture</td>
+            <td>3</td>
+            <td>3</td>
+            <td>One semester of intermediate level language </td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>4</td>
+            <td>6</td>
+            <td>Two semester of intermediate level language </td>
+        </tr>
+        <tr>
+            <td scope="row">Computer Science A</td>
+            <td>3</td>
+            <td>3</td>
+            <td>CGS X075</td>
+        </tr>
+        <tr>
+            <td scope="row">Computer Science AB</td>
+            <td>3</td>
+            <td>3</td>
+            <td>CGS X076</td>
+        </tr>
+        <tr>
+            <td scope="row">English Language and Composition</td>
+            <td>3</td>
+            <td>3</td>
+            <td>ENC X101</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>4</td>
+            <td>6</td>
+            <td>ENC X101 AND 
+ENC X102</td>
+        </tr>
+        <tr>
+            <td scope="row">English Literature and Composition</td>
+            <td>3</td>
+            <td>3</td>
+            <td>ENC X101 OR Course in AML, ENL, or LIT</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>4</td>
+            <td>6</td>
+            <td>ENC X101 and either 
+ENC X102 or LIT X005</td>
+        </tr>
+        <tr>
+            <td scope="row">Environmental Science</td>
+            <td>3</td>
+            <td>3</td>
+            <td>ISC X051</td>
+        </tr>
+        <tr>
+            <td scope="row">European History</td>
+            <td>3</td>
+            <td>3</td>
+            <td>EUH X009</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>4</td>
+            <td>6</td>
+            <td>EUH X000 and
+EUH X001</td>
+        </tr>
+        <tr>
+            <td scope="row">French Language and Culture</td>
+            <td>3</td>
+            <td>3</td>
+            <td>One semester of intermediate level language</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>4</td>
+            <td>6</td>
+            <td>Two semesters of intermediate level language</td>
+        </tr>
+        <tr>
+            <td scope="row">French Literature</td>
+            <td>3</td>
+            <td>3</td>
+            <td>One semester introductory literature </td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>4</td>
+            <td>6</td>
+            <td>Two semester introductory literature </td>
+        </tr>
+        <tr>
+            <td scope="row">German Language and Culture</td>
+            <td>3</td>
+            <td>3</td>
+            <td>One semester of intermediate level language </td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>4</td>
+            <td>6</td>
+            <td>Two semester of intermediate level language </td>
+        </tr>
+        <tr>
+            <td scope="row">Human Geography</td>
+            <td>3</td>
+            <td>3</td>
+            <td>GEO X400 or 
+GEO X420</td>
+        </tr>
+        <tr>
+            <td scope="row">Italian Language and Culture</td>
+            <td>3</td>
+            <td>3</td>
+            <td>One semester of intermediate level language </td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>4</td>
+            <td>6</td>
+            <td>Two semesters of intermediate level language </td>
+        </tr>
+        <tr>
+            <td scope="row">Japanese Language and Culture</td>
+            <td>3</td>
+            <td>3</td>
+            <td>One semester of intermediate level language</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>4</td>
+            <td>6</td>
+            <td>Two semesters of intermediate level language</td>
+        </tr>
+        <tr>
+            <td scope="row">Latin</td>
+            <td>3</td>
+            <td>3</td>
+            <td>LNW X321</td>
+        </tr>
+        <tr>
+            <td scope="row">Latin Literature</td>
+            <td>3</td>
+            <td>--</td>
+            <td>LNW X700</td>
+        </tr>
+        <tr>
+            <td scope="row">Macroeconomics</td>
+            <td>3</td>
+            <td>3</td>
+            <td>ECO X013</td>
+        </tr>
+        <tr>
+            <td scope="row">Microeconomics</td>
+            <td>3</td>
+            <td>3</td>
+            <td>ECI X023</td>
+        </tr>
+        <tr>
+            <td scope="row">Music Theory</td>
+            <td>3</td>
+            <td>3</td>
+            <td>MUT X001 if composite score is 3 or higher. MUT X111 and 
+MUT X241 if both aural and non-aural subscores are 3 or higher. </td>
+        </tr>
+        <tr>
+            <td scope="row">Physics B</td>
+            <td>3</td>
+            <td>4</td>
+            <td>PHY X053C OR
+PHY X053/ PHY X053L</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>4</td>
+            <td>8</td>
+            <td>PHY X053C OR 
+PHY X053/PHY X053L AND
+PHY X054C OR PHY X054/PHY X054L</td>
+        </tr>
+        <tr>
+            <td scope="row">Physics C: Electricity and Magnetism</td>
+            <td>3</td>
+            <td>4</td>
+            <td>PHY X054 OR
+PHY X054/PHY X054L</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>4</td>
+            <td>4</td>
+            <td>PHY X049C OR
+PHY X049/PHY X049L</td>
+        </tr>
+        <tr>
+            <td scope="row">Physics C: Mechanics</td>
+            <td>3</td>
+            <td>4</td>
+            <td>PHY X053C OR
+PHY X053/PHY X053L</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>4</td>
+            <td>4</td>
+            <td>PHY X048C OR 
+PHY X048/X048L</td>
+        </tr>
+        <tr>
+            <td scope="row">Psychology</td>
+            <td>3</td>
+            <td>3</td>
+            <td>PSY X012</td>
+        </tr>
+        <tr>
+            <td scope="row">Spanish Language</td>
+            <td>3</td>
+            <td>3</td>
+            <td>One semester of intermediate level language </td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>4</td>
+            <td>6</td>
+            <td>Two semesters of intermediate level language </td>
+        </tr>
+        <tr>
+            <td scope="row">Spanish Literature and Culture</td>
+            <td>3</td>
+            <td>3</td>
+            <td>One semester introductory literature </td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>4</td>
+            <td>6</td>
+            <td>Two semesters introductory literature</td>
+        </tr>
+        <tr>
+            <td scope="row">Statistics</td>
+            <td>3</td>
+            <td>3</td>
+            <td>STA X014 OR 
+STA X023</td>
+        </tr>
+        <tr>
+            <td scope="row">Studio Art: 2-D Design Portfolio</td>
+            <td>3</td>
+            <td>3</td>
+            <td>ART X201C</td>
+        </tr>
+        <tr>
+            <td scope="row">Studio Art: 3-D Design Portfolio</td>
+            <td>3</td>
+            <td>3</td>
+            <td>ART X203C</td>
+        </tr>
+        <tr>
+            <td scope="row">Studio Art: Drawing Portfolio</td>
+            <td>3</td>
+            <td>3</td>
+            <td>ART X300C</td>
+        </tr>
+        <tr>
+            <td scope="row">United States History</td>
+            <td>3</td>
+            <td>3</td>
+            <td>ANH X000</td>
+        </tr>
+        <tr>
+            <td scope="row"></td>
+            <td>4</td>
+            <td>6</td>
+            <td>AMH X010 AND
+AMH X020</td>
+        </tr>
+        <tr>
+            <td scope="row">World History</td>
+            <td>3</td>
+            <td>3</td>
+            <td>WOH X022</td>
+        </tr>
+    </tbody>
+ </table>     
+<!-- END SHARED FTL  -->

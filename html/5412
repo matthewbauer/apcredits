@@ -1,0 +1,27 @@
+<h2 style="font-size: 22px;">Mitchell Community College</h2>
+<strong>Statesville, NC</strong>
+
+<div class="infolines">
+    <div class="row-fluid">
+        <div class="span10">Offers credit for AP Exams</div>
+        <div class="span2 alignRight">
+	     --
+        </div>
+    </div>    
+    <div class="row-fluid">
+        <div class="span10">Offers placement into higher-level courses for AP Exams</div>
+        <div class="span2 alignRight">
+	     --
+        </div>
+    </div>    
+</div>
+
+
+<p>
+    <strong>From the college:</strong>
+    <i>Credit may be allowed for up to 20 semester hours of college work based on exams as given through the College Board Advanced Placement Program. Scores on the exams must be 3, 4, or 5. Credit is allowed only if appropriate to the student's program of study.</i>
+    <br/>
+    For more information, <a href="http://www.mitchell.cc.nc.us/PDF/MCCCat04.pdf" target="_blank" title="Opens a new window">view the credit policy on this college's website</a>.
+</p>
+
+<!-- END SHARED FTL  -->

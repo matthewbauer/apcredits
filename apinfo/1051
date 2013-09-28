@@ -1,0 +1,68 @@
+
+Art History;3;3;AHS 100
+Art History;4;3;AHS 101
+Art History;5;6;AHS 101, 102
+Biology;3;3;BIO 100
+Biology;4;4;BIO 111
+Biology;5;8;BIO 111, 112
+Calculus AB;3;3;MATHS 161
+Calculus AB;4;4;MATHS 165
+Calculus BC;3;6;MATH 161, 162
+Calculus BC;4;8;MATHS 165, 166
+Calculus BC: AB Subscore;3;3;MATHS 161
+Calculus BC: AB Subscore;4;4;MATHS 165
+Chemistry;3;3;CHEM 100
+Chemistry;4;7;CHEM 108, 111
+Chemistry;5;8;CHEM 111, 112
+Chinese Language and Culture;3;4;CH 201
+Chinese Language and Culture;4;8;CH 201, 202
+Chinese Language and Culture;5;12;CH 201, 202, 301
+Comparative Government and Politics;3;3;POLS 280
+Computer Science A;3;4;CS 120
+English Language and Composition;3;3;ENG 103
+English Language and Composition;4;3;ENG 103
+English Language and Composition;5;3;ENG 104
+English Literature and Composition;3;3;ENG 206
+Environmental Science;3;3;NREM 101
+European History;3;3;HIST 999
+French Language and Culture;3;6;FR 201, 202
+French Language and Culture;4;12;FR 201, 202, 301, 302
+German Language and Culture;3;6;GER 201, 202
+German Language and Culture;4;9;GER 201, 202, 301
+German Language and Culture;5;12;GER 201, 202, 301, 302
+Human Geography;3;3;GEOG 121
+Italian Language and Culture;3;8;ITAL 101, 102
+Japanese Language and Culture;3;4;JAPAN 201
+Japanese Language and Culture;4;8;JAPAN 201, 202
+Japanese Language and Culture;5;12;JAPAN 201, 202, 301
+Latin;3;3;LAT 302
+Macroeconomics;3;3;ECON 116
+Macroeconomics;4;3;ECON 116 or 202
+Microeconomics;3;3;ECON 116
+Microeconomics;4;3;ECON 116 or 201
+Music Theory;3;3;MUSED 265
+Physics B;3;4;PHYSC 110
+Physics B;4;8;PHYCS 110, 112
+Physics C: Electricity and Magnetism;3;4;PHYSC 112
+Physics C: Electricity and Magnetism;4;5;PHYCS 122
+Physics C: Mechanics;3;4;PHYCS 110
+Physics C: Mechanics;4;5;PHYCS 120
+Psychology;3;3;PSYSC 100
+Spanish Language;3;6;SP 201, 202
+Spanish Language;4;9;SP 201, 202, 303
+Spanish Language;5;12;SP 201, 202, 301, 303
+Spanish Literature and Culture;3;6;SP 201, 202
+Spanish Literature and Culture;4;9;SP 201, 202, 360
+Statistics;3;3;MATHS 181
+Statistics;4;3;ECON 221
+Studio Art: 2-D Design Portfolio;3;3;ADS 990
+Studio Art: 2-D Design Portfolio;4;3;AFA 998
+Studio Art: 3-D Design Portfolio;3;3;ADS 990
+Studio Art: 3-D Design Portfolio;4;3;AFA 998
+Studio Art: Drawing Portfolio;3;3;AFA 990
+Studio Art: Drawing Portfolio;4;3;AFA 998
+United States Government and Politics;3;3;POLS 130
+United States History;3;3;HIST 202
+United States History;4;6;HIST 201, 202
+World History;3;3;HIST 152
+World History;4;6;HIST 151,152

@@ -1,0 +1,27 @@
+<h2 style="font-size: 22px;">Medical University of South Carolina</h2>
+<strong>Charleston, SC</strong>
+
+<div class="infolines">
+    <div class="row-fluid">
+        <div class="span10">Offers credit for AP Exams</div>
+        <div class="span2 alignRight">
+                <div class="short-status-red">No</div>
+        </div>
+    </div>    
+    <div class="row-fluid">
+        <div class="span10">Offers placement into higher-level courses for AP Exams</div>
+        <div class="span2 alignRight">
+                <div class="short-status-red">No</div>
+        </div>
+    </div>    
+</div>
+
+
+<p>
+    <strong>From the college:</strong>
+    <i>AP credit accepted for prerequisite coursework varies by program.</i>
+    <br/>
+    For more information, <a href="http://www.musc.edu/bulletin/transfer_policy/guide.html" target="_blank" title="Opens a new window">view the credit policy on this college's website</a>.
+</p>
+
+<!-- END SHARED FTL  -->

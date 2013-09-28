@@ -1,0 +1,27 @@
+<h2 style="font-size: 22px;">St. Joseph's College, New York</h2>
+<strong>Brooklyn, NY</strong>
+
+<div class="infolines">
+    <div class="row-fluid">
+        <div class="span10">Offers credit for AP Exams</div>
+        <div class="span2 alignRight">
+                <div class="short-status-red">No</div>
+        </div>
+    </div>    
+    <div class="row-fluid">
+        <div class="span10">Offers placement into higher-level courses for AP Exams</div>
+        <div class="span2 alignRight">
+                <div class="short-status-red">No</div>
+        </div>
+    </div>    
+</div>
+
+
+<p>
+    <strong>From the college:</strong>
+    <i>Students must score at least a 3 or above on all AP examinations to receive college credit.</i>
+    <br/>
+    For more information, <a href="http://www.sjcny.edu/Academics/Academics/669" target="_blank" title="Opens a new window">view the credit policy on this college's website</a>.
+</p>
+
+<!-- END SHARED FTL  -->

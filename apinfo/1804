@@ -1,0 +1,34 @@
+
+Biology;4;4;BIOL 1010 or 1105
+Biology;5;8;BIOL 1010 & 1020 or BIOL 1105 & 1115
+Calculus AB;3;3;MATH 1830
+Calculus AB;4;4;MATH 1910
+Calculus BC;3;4;MATH 1910
+Calculus BC;4;8;MATH 1910,1920
+Chemistry;4;4;CHEM 1110 OR CHEM 1010,1020
+Chemistry;5;8;CHEM 1110 & 1120 or CHEM 1010 & 1020
+Computer Science A;4;4;CSC 2100, 2101
+English Language and Composition;4;3;ENGL 1010
+English Language and Composition;5;6;ENGL 1010 & 1020
+English Literature and Composition;4;3;ENGL 2330
+Environmental Science;4;4;BIOL 3130
+European History;4;6;HIST 1010 & 1020
+French Language and Culture;3;6;FREN 1010,1020
+French Language and Culture;4;12;FREN 1010,1020,2010,2020
+German Language and Culture;3;6;GERM 1010,1020
+German Language and Culture;4;12;GERM 1010,1020,2010,2020
+Human Geography;3;3;GEOG 1120
+Macroeconomics;4;3;ECON 2020
+Microeconomics;4;3;ECON 2010
+Physics B;4;8;PHYS 2010 & 2020
+Physics C: Electricity and Magnetism;3;4;PHYS 2020
+Physics C: Electricity and Magnetism;4;3;PHYS 2020 or 2120
+Physics C: Mechanics;3;4;PHYS 2010
+Physics C: Mechanics;4;3;PHYS 2010 or 2110
+Psychology;4;3;PSY 2010
+Spanish Language;3;6;SPAN 1010 & 1020
+Spanish Language;4;12;SPAN 1010,1020,2010,2020
+Statistics;4;3;MATH 1530
+United States Government and Politics;4;3;POLS 1000
+United States History;4;6;HIST 2010 & 2020
+World History;4;6;HIST 1110 & 1120

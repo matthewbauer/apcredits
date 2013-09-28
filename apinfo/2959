@@ -1,0 +1,84 @@
+
+Art History;4;6;"AAH 1101
+AAH 1102
+"
+Biology;4;8;"BIO 2105
+BIO 2106
+"
+Calculus AB;4;8;"MAT 1500
+MAT 1505
+"
+Calculus BC;4;8;"MAT 1500
+MAT 1505
+"
+Calculus BC: AB Subscore;4;8;MAT 1500, 1505
+Chemistry;4;10;CHM 1151, CHM 1103, CHM 1156, CHM 1104
+Chemistry;4;10;"CHM 1103,CHM 1104,CHM 1151,CHM 1152
+"
+Chemistry;5;10;"CHM 1103
+CHM 1104
+
+CHM 1151
+CHM 1152
+"
+Chinese Language and Culture;4;12;"CHI - 1111
+CHI - 1112"
+Comparative Government and Politics;4;3;PSC-1875 
+Computer Science A;4;4;CSC 1051 
+Computer Science AB;4;4;CSC 1051 
+English Language and Composition;4;3;ENG 1050 
+English Literature and Composition;4;3;ENG 1050 
+Environmental Science;4;4;BIO 1555
+European History;4;6;"HIS 3095
+HIS 3995 "
+French Language and Culture;3;--;-
+French Language and Culture;4;6;"FRE 1121
+FRE 1122
+"
+French Literature;3;--;-
+French Literature;4;6;"FRE 1121
+FRE 1122
+"
+German Language and Culture;3;--;-
+German Language and Culture;4;6;"GER 1121
+GER 1122
+"
+Human Geography;4;3;GEV 1001
+Italian Language and Culture;3;--;-
+Italian Language and Culture;4;6;"ITA 1121
+ITA 1122 
+"
+Japanese Language and Culture;4;6;"JPN - 1111
+JPN - 1112"
+Latin;4;3;LAT 1121
+Latin Literature;4;3;LAT 1122 
+Macroeconomics;4;3;ECO 1002
+Microeconomics;4;3;ECO 1001
+Physics C: Electricity and Magnetism;4;4;"PHY 1102
+PHY 1103
+"
+Physics C: Electricity and Magnetism;4;3;PHY 2402
+Physics C: Mechanics;4;3;PHY 2400
+Physics C: Mechanics;4;4;"PHY 1100
+PHY 1101
+"
+Psychology;4;3;PSY 1000
+Spanish Language;3;--;-
+Spanish Language;4;6;"SPA 1121
+SPA 1122
+"
+Spanish Literature and Culture;3;--;-
+Spanish Literature and Culture;4;6;"SPA 1121
+SPA 1122
+"
+Statistics;4;3;MAT 1230 
+Studio Art: 2-D Design Portfolio;3;--;-
+Studio Art: 3-D Design Portfolio;3;--;-
+Studio Art: Drawing Portfolio;3;--;-
+United States Government and Politics;4;3;PSC 1100 
+United States History;4;6;"HIS 2000
+HIS 2001
+"
+World History;4;--;"HIS 1040
+HIS 1050
+"

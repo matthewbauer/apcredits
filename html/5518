@@ -1,0 +1,26 @@
+<h2 style="font-size: 22px;">Piedmont Community College</h2>
+<strong>Roxboro, NC</strong>
+
+<div class="infolines">
+    <div class="row-fluid">
+        <div class="span10">Offers credit for AP Exams</div>
+        <div class="span2 alignRight">
+	     --
+        </div>
+    </div>    
+    <div class="row-fluid">
+        <div class="span10">Offers placement into higher-level courses for AP Exams</div>
+        <div class="span2 alignRight">
+	     --
+        </div>
+    </div>    
+</div>
+
+
+<p>
+    <strong>From the college:</strong>
+    <i>Piedmont Community College grants advanced standing credits to be applied toward graduation for a minimum score of 3 on AP Exams which are directly equivalent to a Piedmont Community College class. In determining the grade point average for graduation, only the quality points earned for courses taken at PCC will be considered.</i>
+    <br/>
+</p>
+
+<!-- END SHARED FTL  -->

@@ -1,0 +1,27 @@
+<h2 style="font-size: 22px;">North Dakota State College of Science</h2>
+<strong>Wahpeton, ND</strong>
+
+<div class="infolines">
+    <div class="row-fluid">
+        <div class="span10">Offers credit for AP Exams</div>
+        <div class="span2 alignRight">
+                <div class="short-status-red">No</div>
+        </div>
+    </div>    
+    <div class="row-fluid">
+        <div class="span10">Offers placement into higher-level courses for AP Exams</div>
+        <div class="span2 alignRight">
+                <div class="short-status-red">No</div>
+        </div>
+    </div>    
+</div>
+
+
+<p>
+    <strong>From the college:</strong>
+    <i>The North Dakota State College of Science Credit for Prior Learning Assessment Program is designed to offer adult learners the opportunity to apply learning received from life and work experience toward a North Dakota State College of Science degree. This program is administered through the Vice President for Academic and Student Affairs. The adult learner must enroll in the ASC 180 Prior Learning Assessment portfolio class. For specific questions on CPL, contact an academic counselor in the Arts, Science and Business Divisions dean's office or the Technologies and Services Division dean's office.</i>
+    <br/>
+    For more information, <a href="http://www.ndscs.nodak.edu/academics/course-schedules/" target="_blank" title="Opens a new window">view the credit policy on this college's website</a>.
+</p>
+
+<!-- END SHARED FTL  -->
